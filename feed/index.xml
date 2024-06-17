@@ -9,8 +9,8 @@
 
 <channel>
 	<title>elihenley</title>
-	<atom:link href="http://localhost/feed/?simply_static_page=855" rel="self" type="application/rss+xml" />
-	<link>https://github.com/ehenley001/eh_portfolio/</link>
+	<atom:link href="http://localhost/feed/?simply_static_page=1727" rel="self" type="application/rss+xml" />
+	<link>https://ehenley001.github.io/eh_portfolio/</link>
 	<description></description>
 	<lastBuildDate>Thu, 13 Jun 2024 05:09:22 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=6.5.4</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>https://github.com/ehenley001/eh_portfolio/2024/06/13/hello-world/</link>
-					<comments>https://github.com/ehenley001/eh_portfolio/2024/06/13/hello-world/#comments</comments>
+		<link>https://ehenley001.github.io/eh_portfolio/2024/06/13/hello-world/</link>
+					<comments>https://ehenley001.github.io/eh_portfolio/2024/06/13/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[elihenley]]></dc:creator>
 		<pubDate>Thu, 13 Jun 2024 05:09:22 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://github.com/ehenley001/eh_portfolio/?p=1</guid>
+		<guid isPermaLink="false">https://ehenley001.github.io/eh_portfolio/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://github.com/ehenley001/eh_portfolio/2024/06/13/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://ehenley001.github.io/eh_portfolio/2024/06/13/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
