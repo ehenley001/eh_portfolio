@@ -7,33 +7,15 @@
 	>
 <channel>
 	<title>
-	Comments for elihenley	</title>
-	<atom:link href="http://localhost/comments/feed/?simply_static_page=1728" rel="self" type="application/rss+xml" />
-	<link>https://ehenley001.github.io/eh_portfolio/</link>
+	Comments for Eli Henley	</title>
+	<atom:link href="http://localhost/comments/feed/?simply_static_page=2695" rel="self" type="application/rss+xml" />
+	<link>https://elihenley.com/</link>
 	<description></description>
-	<lastBuildDate>Thu, 13 Jun 2024 05:09:22 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 19 Jun 2024 17:00:16 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.5.4</generator>
-	<item>
-		<title>
-		Comment on Hello world! by A WordPress Commenter		</title>
-		<link>https://ehenley001.github.io/eh_portfolio/2024/06/13/hello-world/#comment-1</link>
-
-		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
-		<pubDate>Thu, 13 Jun 2024 05:09:22 +0000</pubDate>
-		<guid isPermaLink="false">https://ehenley001.github.io/eh_portfolio/?p=1#comment-1</guid>
-
-					<description><![CDATA[Hi, this is a comment.
-To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
-Commenter avatars come from &lt;a href=&quot;https://en.gravatar.com/&quot;&gt;Gravatar&lt;/a&gt;.]]></description>
-			<content:encoded><![CDATA[<p>Hi, this is a comment.<br />
-To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.<br />
-Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.</p>
-]]></content:encoded>
-		
-			</item>
-	</channel>
+</channel>
 </rss>
