@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Live events &#8211; Eli Henley</title>
+	<atom:link href="http://localhost/category/live-events/feed/?simply_static_page=4798" rel="self" type="application/rss+xml" />
+	<link>https://elihenley.com/</link>
+	<description></description>
+	<lastBuildDate>Fri, 21 Jun 2024 04:56:13 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.4</generator>
+	<item>
+		<title>Taylor Town</title>
+		<link>https://elihenley.com/2024/06/20/taylor-town/</link>
+					<comments>https://elihenley.com/2024/06/20/taylor-town/#respond</comments>
+		
+		<dc:creator><![CDATA[elihenley]]></dc:creator>
+		<pubDate>Thu, 20 Jun 2024 03:20:30 +0000</pubDate>
+				<category><![CDATA[2022]]></category>
+		<category><![CDATA[Live events]]></category>
+		<category><![CDATA[Videos]]></category>
+		<guid isPermaLink="false">https://elihenley.com/?p=88</guid>
+
+					<description><![CDATA[Live event + Video stream &#8211; 2022 Taylor Town was a free in-person/live stream art and music event I organized and ran on December 17, 2022. The event showcased three local Albuquerque bands: Castle Doctor&#160; (with their debut performance), Soviet Science Fair, and Blew, plus electronic music improvisations from Ethan Haft, and a standup routine [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="Taylor Town - Live Performance from a Real Town" width="500" height="375" src="https://www.youtube.com/embed/uteMBZtaR7w?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<h2 class="wp-block-heading">Live event + Video stream &#8211; 2022</h2>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p>Taylor Town was a free in-person/live stream art and music event I organized and ran on December 17, 2022.</p>
+
+
+
+<p>The event showcased three local Albuquerque bands: Castle Doctor&nbsp; (with their debut performance), Soviet Science Fair, and Blew, plus electronic music improvisations from Ethan Haft, and a standup routine from Gavin Austin.</p>
+
+
+
+<p>President Biden (played by myself) provided a crass opening speech, while a rap performance from Nico closed out the show.</p>
+
+
+
+<p>My goal with Taylor Town was not only to bring local performers together for a fun communal show, but to integrate story building, interactive art, and video. Taylor Town displayed work by local artist Aimeric Arragon, and included my own interactive art piece <a href="https://elihenley.com/2024/06/19/league-of-extraordinary-homes/" data-type="post" data-id="72">League of Extraordinary Homes</a>. The video feed, streamed to YouTube (above), was displayed on a TV at the front of the stage. This allowed people an alternative way of engaging with the event.</p>
+
+
+
+<p>I collaborated with Tahj Sampson in creating a history for the fictional town of Taylor Town, which was detailed in an interactive PowerPoint available for those in attendance to explore.</p>
+
+
+
+<div style="height:13px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p>Special thanks to Pax and Logan of Tortuga Art Gallery, Eli Glickman, Tahj Sampson, Sol Dean, Joe Dean, Taylor Wright, Ray Whatley, Aimeric Arragon, Alex Harding, Nico Kennedy, and Ethan Haft.</p>
+
+
+
+<div style="height:14px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="768" src="https://elihenley.com/wp-content/uploads/2024/06/IMG_1151-Large-1024x768.jpeg" alt="" class="wp-image-92" srcset="https://elihenley.com/wp-content/uploads/2024/06/IMG_1151-Large-1024x768.jpeg 1024w, https://elihenley.com/wp-content/uploads/2024/06/IMG_1151-Large-300x225.jpeg 300w, https://elihenley.com/wp-content/uploads/2024/06/IMG_1151-Large-768x576.jpeg 768w, https://elihenley.com/wp-content/uploads/2024/06/IMG_1151-Large.jpeg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://elihenley.com/2024/06/20/taylor-town/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

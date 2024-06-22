@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Public art &#8211; Eli Henley</title>
+	<atom:link href="http://localhost/category/public-art/feed/?simply_static_page=4808" rel="self" type="application/rss+xml" />
+	<link>https://elihenley.com/</link>
+	<description></description>
+	<lastBuildDate>Thu, 20 Jun 2024 03:33:16 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.4</generator>
+	<item>
+		<title>Sevilleta Variance Line Sculpture</title>
+		<link>https://elihenley.com/2024/06/18/sevilleta-variance-line-sculpture/</link>
+					<comments>https://elihenley.com/2024/06/18/sevilleta-variance-line-sculpture/#respond</comments>
+		
+		<dc:creator><![CDATA[elihenley]]></dc:creator>
+		<pubDate>Tue, 18 Jun 2024 05:26:17 +0000</pubDate>
+				<category><![CDATA[2019]]></category>
+		<category><![CDATA[Public art]]></category>
+		<category><![CDATA[Sculptures]]></category>
+		<guid isPermaLink="false">https://elihenley.com/?p=27</guid>
+
+					<description><![CDATA[rammed earth and metal sculpture &#8211; 2019 Work commissioned by the Sevilleta National Wildlife Refuge. My design proposal was selected by the refuge and Constructed by students in UNM’s Art and Ecology program. Sculpture depicts 100 years of rainwater variance and declining precipitation as recorded at the refuge. location]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="572" src="https://elihenley.com/wp-content/uploads/2024/06/P1000311-1024x572.jpg" alt="" class="wp-image-28" srcset="https://elihenley.com/wp-content/uploads/2024/06/P1000311-1024x572.jpg 1024w, https://elihenley.com/wp-content/uploads/2024/06/P1000311-300x167.jpg 300w, https://elihenley.com/wp-content/uploads/2024/06/P1000311-768x429.jpg 768w, https://elihenley.com/wp-content/uploads/2024/06/P1000311-1536x857.jpg 1536w, https://elihenley.com/wp-content/uploads/2024/06/P1000311-2048x1143.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h2 class="wp-block-heading">rammed earth and metal sculpture &#8211; 2019</h2>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p>Work commissioned by the Sevilleta National Wildlife Refuge. My design proposal was selected by the refuge and Constructed by students in UNM’s Art and Ecology program.</p>
+
+
+
+<p>Sculpture depicts 100 years of rainwater variance and declining precipitation as recorded at the refuge.</p>
+
+
+
+<p><a href="https://maps.app.goo.gl/Tj1SuytCyGeuX6mc6" data-type="link" data-id="https://maps.app.goo.gl/Tj1SuytCyGeuX6mc6" target="_blank" rel="noreferrer noopener">location</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://elihenley.com/2024/06/18/sevilleta-variance-line-sculpture/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
