@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Music &#8211; Eli Henley</title>
-	<atom:link href="http://localhost/category/music/feed/?simply_static_page=4810" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/category/music/feed/?simply_static_page=6041" rel="self" type="application/rss+xml" />
 	<link>https://elihenley.com/</link>
 	<description></description>
 	<lastBuildDate>Fri, 21 Jun 2024 04:45:49 +0000</lastBuildDate>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.4</generator>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
 	<item>
 		<title>Better By Better Bope</title>
 		<link>https://elihenley.com/2024/06/18/better-by-better-bope/</link>

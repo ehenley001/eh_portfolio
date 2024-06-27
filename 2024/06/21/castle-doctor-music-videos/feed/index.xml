@@ -8,7 +8,7 @@
 <channel>
 	<title>
 	Comments on: Castle Doctor Music Videos	</title>
-	<atom:link href="http://localhost/2024/06/21/castle-doctor-music-videos/feed/?simply_static_page=4765" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/2024/06/21/castle-doctor-music-videos/feed/?simply_static_page=5994" rel="self" type="application/rss+xml" />
 	<link>https://elihenley.com/2024/06/21/castle-doctor-music-videos/</link>
 	<description></description>
 	<lastBuildDate>Fri, 21 Jun 2024 04:51:43 +0000</lastBuildDate>
@@ -16,6 +16,6 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.4</generator>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
 </channel>
 </rss>

@@ -9,17 +9,67 @@
 
 <channel>
 	<title>Electrical devices &#8211; Eli Henley</title>
-	<atom:link href="http://localhost/category/electrical-devices/feed/?simply_static_page=4788" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/category/electrical-devices/feed/?simply_static_page=6017" rel="self" type="application/rss+xml" />
 	<link>https://elihenley.com/</link>
 	<description></description>
-	<lastBuildDate>Sat, 22 Jun 2024 00:46:03 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 27 Jun 2024 20:42:55 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.4</generator>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
 	<item>
+		<title>The Reifier</title>
+		<link>https://elihenley.com/2024/06/27/the-reifier/</link>
+					<comments>https://elihenley.com/2024/06/27/the-reifier/#respond</comments>
+		
+		<dc:creator><![CDATA[elihenley]]></dc:creator>
+		<pubDate>Thu, 27 Jun 2024 20:39:36 +0000</pubDate>
+				<category><![CDATA[2024]]></category>
+		<category><![CDATA[Electrical devices]]></category>
+		<category><![CDATA[Sculptures]]></category>
+		<guid isPermaLink="false">https://elihenley.com/?p=142</guid>
+
+					<description><![CDATA[Steel, circuit boards, lights, misc. electronics components, wire, solder, hardware &#8211; 2024 A wearable interactive sculpture and electrical device. When worn, the Reifier surmises and “transcribes” the wearer&#8217;s inner emotions into a display of twenty lights. Each light corresponds to a specific mood or desire, and more than one may be illuminated at a time. [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><a href="https://elihenley.com/wp-content/uploads/2024/06/reifier-8-cornerphoto-Large.jpeg"><img fetchpriority="high" decoding="async" width="799" height="1024" src="https://elihenley.com/wp-content/uploads/2024/06/reifier-8-cornerphoto-Large-799x1024.jpeg" alt="" class="wp-image-154" srcset="https://elihenley.com/wp-content/uploads/2024/06/reifier-8-cornerphoto-Large-799x1024.jpeg 799w, https://elihenley.com/wp-content/uploads/2024/06/reifier-8-cornerphoto-Large-234x300.jpeg 234w, https://elihenley.com/wp-content/uploads/2024/06/reifier-8-cornerphoto-Large-768x984.jpeg 768w, https://elihenley.com/wp-content/uploads/2024/06/reifier-8-cornerphoto-Large.jpeg 999w" sizes="(max-width: 799px) 100vw, 799px" /></a></figure>
+
+
+
+<h2 class="wp-block-heading">Steel, circuit boards, lights, misc. electronics components, wire, solder, hardware &#8211; 2024</h2>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p>A wearable interactive sculpture and electrical device. When worn, the Reifier surmises and “transcribes” the wearer&#8217;s inner emotions into a display of twenty lights. Each light corresponds to a specific mood or desire, and more than one may be illuminated at a time. This output can then be read and transcribed by the surrounding audience to determine the wearer’s state of being. A new output is generated each time the wearer speaks or moves their jaw.</p>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p>The Reifier uses no microcontrollers or computer programming. Its circuitry is purpose built to fulfill this function.</p>
+
+
+
+<div style="height:24px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<figure class="wp-block-image aligncenter size-large is-resized has-custom-border is-style-default"><a href="https://elihenley.com/wp-content/uploads/2024/06/QLGv4-yellowed.jpg"><img decoding="async" width="791" height="1024" src="https://elihenley.com/wp-content/uploads/2024/06/QLGv4-yellowed-791x1024.jpg" alt="" class="wp-image-153" style="border-style:none;border-width:0px;border-radius:0px;width:521px;height:auto" srcset="https://elihenley.com/wp-content/uploads/2024/06/QLGv4-yellowed-791x1024.jpg 791w, https://elihenley.com/wp-content/uploads/2024/06/QLGv4-yellowed-232x300.jpg 232w, https://elihenley.com/wp-content/uploads/2024/06/QLGv4-yellowed-768x994.jpg 768w, https://elihenley.com/wp-content/uploads/2024/06/QLGv4-yellowed.jpg 850w" sizes="(max-width: 791px) 100vw, 791px" /></a></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://elihenley.com/2024/06/27/the-reifier/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Metal Fountain</title>
 		<link>https://elihenley.com/2024/06/21/metal-fountain/</link>
 					<comments>https://elihenley.com/2024/06/21/metal-fountain/#respond</comments>
@@ -33,7 +83,7 @@
 
 					<description><![CDATA[Steel, silicone tubing, water pump, power supply &#8211; 2023 A Slow-dripping fountain made of steel. Water drips out of a craning vertical tube and is captured in a bowl below. Water is then recirculated by a pump concealed in the base.]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="682" height="1024" src="https://elihenley.com/wp-content/uploads/2024/06/fountain1-Large-682x1024.jpeg" alt="" class="wp-image-129" srcset="https://elihenley.com/wp-content/uploads/2024/06/fountain1-Large-682x1024.jpeg 682w, https://elihenley.com/wp-content/uploads/2024/06/fountain1-Large-200x300.jpeg 200w, https://elihenley.com/wp-content/uploads/2024/06/fountain1-Large-768x1152.jpeg 768w, https://elihenley.com/wp-content/uploads/2024/06/fountain1-Large.jpeg 853w" sizes="(max-width: 682px) 100vw, 682px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="682" height="1024" src="https://elihenley.com/wp-content/uploads/2024/06/fountain1-Large-682x1024.jpeg" alt="" class="wp-image-129" srcset="https://elihenley.com/wp-content/uploads/2024/06/fountain1-Large-682x1024.jpeg 682w, https://elihenley.com/wp-content/uploads/2024/06/fountain1-Large-200x300.jpeg 200w, https://elihenley.com/wp-content/uploads/2024/06/fountain1-Large-768x1152.jpeg 768w, https://elihenley.com/wp-content/uploads/2024/06/fountain1-Large.jpeg 853w" sizes="(max-width: 682px) 100vw, 682px" /></figure>
 
 
 
@@ -68,7 +118,7 @@
 					<description><![CDATA[wood, acrylic, paper, electronics &#8211; 9x9x18&#8243; &#8211; 2023 A sealed box which broadcasts live the sound within itself. You can &#8220;tune into&#8221; last Fluesday on 94.7 FM if nearby. Inspired by Duchamp&#8217;s With Hidden Noise (1916) and 50cc of Paris Air (1919). All we’re allowed of Last Fluesday are the auditory and visual entrapments within [&#8230;]]]></description>
 										<content:encoded><![CDATA[
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" data-id="124" src="https://elihenley.com/wp-content/uploads/2024/06/fluesday2-Large-1024x1024.jpeg" alt="" class="wp-image-124" srcset="https://elihenley.com/wp-content/uploads/2024/06/fluesday2-Large-1024x1024.jpeg 1024w, https://elihenley.com/wp-content/uploads/2024/06/fluesday2-Large-300x300.jpeg 300w, https://elihenley.com/wp-content/uploads/2024/06/fluesday2-Large-150x150.jpeg 150w, https://elihenley.com/wp-content/uploads/2024/06/fluesday2-Large-768x768.jpeg 768w, https://elihenley.com/wp-content/uploads/2024/06/fluesday2-Large.jpeg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="1024" data-id="124" src="https://elihenley.com/wp-content/uploads/2024/06/fluesday2-Large-1024x1024.jpeg" alt="" class="wp-image-124" srcset="https://elihenley.com/wp-content/uploads/2024/06/fluesday2-Large-1024x1024.jpeg 1024w, https://elihenley.com/wp-content/uploads/2024/06/fluesday2-Large-300x300.jpeg 300w, https://elihenley.com/wp-content/uploads/2024/06/fluesday2-Large-150x150.jpeg 150w, https://elihenley.com/wp-content/uploads/2024/06/fluesday2-Large-768x768.jpeg 768w, https://elihenley.com/wp-content/uploads/2024/06/fluesday2-Large.jpeg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 </figure>
 
 
@@ -116,7 +166,7 @@
 					<description><![CDATA[Construction materials, digital photo frame, landline phone, electronics &#8211; 2022 Interactive installation sculpture. Piece was on display at Taylor Town.  Audience was prompted to pick up the phone handset, upon which a randomly selected quote would play. Quotes were in response to &#8220;something an angry, stifled suburban parent would say,&#8221; as interpreted and performed by [&#8230;]]]></description>
 										<content:encoded><![CDATA[
 <figure class="wp-block-gallery has-nested-images columns-1 wp-block-gallery-2 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="710" data-id="77" src="https://elihenley.com/wp-content/uploads/2024/06/league4-1024x710.jpeg" alt="" class="wp-image-77" srcset="https://elihenley.com/wp-content/uploads/2024/06/league4-1024x710.jpeg 1024w, https://elihenley.com/wp-content/uploads/2024/06/league4-300x208.jpeg 300w, https://elihenley.com/wp-content/uploads/2024/06/league4-768x532.jpeg 768w, https://elihenley.com/wp-content/uploads/2024/06/league4.jpeg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="710" data-id="77" src="https://elihenley.com/wp-content/uploads/2024/06/league4-1024x710.jpeg" alt="" class="wp-image-77" srcset="https://elihenley.com/wp-content/uploads/2024/06/league4-1024x710.jpeg 1024w, https://elihenley.com/wp-content/uploads/2024/06/league4-300x208.jpeg 300w, https://elihenley.com/wp-content/uploads/2024/06/league4-768x532.jpeg 768w, https://elihenley.com/wp-content/uploads/2024/06/league4.jpeg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 

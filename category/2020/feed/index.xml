@@ -9,7 +9,7 @@
 
 <channel>
 	<title>2020 &#8211; Eli Henley</title>
-	<atom:link href="http://localhost/category/2020/feed/?simply_static_page=4802" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/category/2020/feed/?simply_static_page=6033" rel="self" type="application/rss+xml" />
 	<link>https://elihenley.com/</link>
 	<description></description>
 	<lastBuildDate>Thu, 20 Jun 2024 03:22:17 +0000</lastBuildDate>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.4</generator>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
 	<item>
 		<title>Camper Trailer</title>
 		<link>https://elihenley.com/2024/06/18/camper-trailer/</link>

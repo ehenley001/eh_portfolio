@@ -9,7 +9,7 @@
 
 <channel>
 	<title>2022 &#8211; Eli Henley</title>
-	<atom:link href="http://localhost/category/2022/feed/?simply_static_page=4792" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/category/2022/feed/?simply_static_page=6025" rel="self" type="application/rss+xml" />
 	<link>https://elihenley.com/</link>
 	<description></description>
 	<lastBuildDate>Fri, 21 Jun 2024 04:57:14 +0000</lastBuildDate>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.4</generator>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
 	<item>
 		<title>Castle Doctor Music Videos</title>
 		<link>https://elihenley.com/2024/06/21/castle-doctor-music-videos/</link>

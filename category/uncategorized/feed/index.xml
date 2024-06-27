@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Uncategorized &#8211; Eli Henley</title>
-	<atom:link href="http://localhost/category/uncategorized/feed/?simply_static_page=4800" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/category/uncategorized/feed/?simply_static_page=6031" rel="self" type="application/rss+xml" />
 	<link>https://elihenley.com/</link>
 	<description></description>
 	<lastBuildDate>Thu, 20 Jun 2024 03:21:20 +0000</lastBuildDate>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.4</generator>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
 	<item>
 		<title>The World&#8217;s First Combination Keyboard and Casino Games Device</title>
 		<link>https://elihenley.com/2024/06/18/the-worlds-first-combination-keyboard-and-casino-games-device/</link>
