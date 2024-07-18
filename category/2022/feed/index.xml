@@ -9,16 +9,16 @@
 
 <channel>
 	<title>2022 &#8211; Eli Henley</title>
-	<atom:link href="http://localhost/category/2022/feed/?simply_static_page=7256" rel="self" type="application/rss+xml" />
+	<atom:link href="https://elihenley.com/category/2022/feed/" rel="self" type="application/rss+xml" />
 	<link>https://elihenley.com/</link>
 	<description></description>
-	<lastBuildDate>Fri, 21 Jun 2024 04:57:14 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 18 Jul 2024 19:15:33 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<generator>https://wordpress.org/?v=6.6</generator>
 	<item>
 		<title>Castle Doctor Music Videos</title>
 		<link>https://elihenley.com/2024/06/21/castle-doctor-music-videos/</link>
@@ -31,14 +31,10 @@
 		<category><![CDATA[Videos]]></category>
 		<guid isPermaLink="false">https://elihenley.com/?p=101</guid>
 
-					<description><![CDATA[Music videos &#8211; Lengths vary &#8211; 2023 Four music videos were commissioned by Albuquerque band Castle Doctor to accompany the release of their 2024 EP Storming the Palace. Videos and effects were created live during the recording of the EP, using a variety of analog video equipment. Camera OP and setup assistance from Tahj Sampson.]]></description>
+					<description><![CDATA[Music videos &#8211; Lengths vary &#8211; 2023 Four music videos commissioned by Albuquerque band Castle Doctor. Videos accompanied the release of their 2024 EP Storming the Palace. Videos and effects were created live during the recording of the EP using a variety of analog video equipment. Camera OP and setup assistance from Tahj Sampson.]]></description>
 										<content:encoded><![CDATA[
 <figure class="wp-block-gallery has-nested-images columns-3 is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image size-large"><a href="https://elihenley.com/wp-content/uploads/2024/06/Heatstroke-2.jpg"><img fetchpriority="high" decoding="async" width="960" height="720" data-id="110" src="https://elihenley.com/wp-content/uploads/2024/06/Heatstroke-2.jpg" alt="" class="wp-image-110" srcset="https://elihenley.com/wp-content/uploads/2024/06/Heatstroke-2.jpg 960w, https://elihenley.com/wp-content/uploads/2024/06/Heatstroke-2-300x225.jpg 300w, https://elihenley.com/wp-content/uploads/2024/06/Heatstroke-2-768x576.jpg 768w" sizes="(max-width: 960px) 100vw, 960px" /></a></figure>
-
-
-
-<figure class="wp-block-image size-large"><a href="https://elihenley.com/wp-content/uploads/2024/06/Blistered-1.jpg"><img decoding="async" width="960" height="720" data-id="105" src="https://elihenley.com/wp-content/uploads/2024/06/Blistered-1.jpg" alt="" class="wp-image-105" srcset="https://elihenley.com/wp-content/uploads/2024/06/Blistered-1.jpg 960w, https://elihenley.com/wp-content/uploads/2024/06/Blistered-1-300x225.jpg 300w, https://elihenley.com/wp-content/uploads/2024/06/Blistered-1-768x576.jpg 768w" sizes="(max-width: 960px) 100vw, 960px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="https://elihenley.com/wp-content/uploads/2024/06/Blistered-1.jpg"><img fetchpriority="high" decoding="async" width="960" height="720" data-id="105" src="https://elihenley.com/wp-content/uploads/2024/06/Blistered-1.jpg" alt="" class="wp-image-105" srcset="https://elihenley.com/wp-content/uploads/2024/06/Blistered-1.jpg 960w, https://elihenley.com/wp-content/uploads/2024/06/Blistered-1-300x225.jpg 300w, https://elihenley.com/wp-content/uploads/2024/06/Blistered-1-768x576.jpg 768w" sizes="(max-width: 960px) 100vw, 960px" /></a></figure>
 
 
 
@@ -46,11 +42,7 @@
 
 
 
-<figure class="wp-block-image size-large"><a href="https://elihenley.com/wp-content/uploads/2024/06/Disconnected-2.jpg"><img loading="lazy" decoding="async" width="960" height="720" data-id="106" src="https://elihenley.com/wp-content/uploads/2024/06/Disconnected-2.jpg" alt="" class="wp-image-106" srcset="https://elihenley.com/wp-content/uploads/2024/06/Disconnected-2.jpg 960w, https://elihenley.com/wp-content/uploads/2024/06/Disconnected-2-300x225.jpg 300w, https://elihenley.com/wp-content/uploads/2024/06/Disconnected-2-768x576.jpg 768w" sizes="(max-width: 960px) 100vw, 960px" /></a></figure>
-
-
-
-<figure class="wp-block-image size-large"><a href="https://elihenley.com/wp-content/uploads/2024/06/Heatstroke-3.jpg"><img loading="lazy" decoding="async" width="960" height="720" data-id="111" src="https://elihenley.com/wp-content/uploads/2024/06/Heatstroke-3.jpg" alt="" class="wp-image-111" srcset="https://elihenley.com/wp-content/uploads/2024/06/Heatstroke-3.jpg 960w, https://elihenley.com/wp-content/uploads/2024/06/Heatstroke-3-300x225.jpg 300w, https://elihenley.com/wp-content/uploads/2024/06/Heatstroke-3-768x576.jpg 768w" sizes="(max-width: 960px) 100vw, 960px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="https://elihenley.com/wp-content/uploads/2024/06/TarMouth-2.jpg"><img decoding="async" width="960" height="720" data-id="114" src="https://elihenley.com/wp-content/uploads/2024/06/TarMouth-2.jpg" alt="" class="wp-image-114" srcset="https://elihenley.com/wp-content/uploads/2024/06/TarMouth-2.jpg 960w, https://elihenley.com/wp-content/uploads/2024/06/TarMouth-2-300x225.jpg 300w, https://elihenley.com/wp-content/uploads/2024/06/TarMouth-2-768x576.jpg 768w" sizes="(max-width: 960px) 100vw, 960px" /></a></figure>
 
 
 
@@ -58,15 +50,7 @@
 
 
 
-<figure class="wp-block-image size-large"><a href="https://elihenley.com/wp-content/uploads/2024/06/TarMouth-3.jpg"><img loading="lazy" decoding="async" width="960" height="720" data-id="115" src="https://elihenley.com/wp-content/uploads/2024/06/TarMouth-3.jpg" alt="" class="wp-image-115" srcset="https://elihenley.com/wp-content/uploads/2024/06/TarMouth-3.jpg 960w, https://elihenley.com/wp-content/uploads/2024/06/TarMouth-3-300x225.jpg 300w, https://elihenley.com/wp-content/uploads/2024/06/TarMouth-3-768x576.jpg 768w" sizes="(max-width: 960px) 100vw, 960px" /></a></figure>
-
-
-
-<figure class="wp-block-image size-large"><a href="https://elihenley.com/wp-content/uploads/2024/06/TarMouth-2.jpg"><img loading="lazy" decoding="async" width="960" height="720" data-id="114" src="https://elihenley.com/wp-content/uploads/2024/06/TarMouth-2.jpg" alt="" class="wp-image-114" srcset="https://elihenley.com/wp-content/uploads/2024/06/TarMouth-2.jpg 960w, https://elihenley.com/wp-content/uploads/2024/06/TarMouth-2-300x225.jpg 300w, https://elihenley.com/wp-content/uploads/2024/06/TarMouth-2-768x576.jpg 768w" sizes="(max-width: 960px) 100vw, 960px" /></a></figure>
-
-
-
-<figure class="wp-block-image size-large"><a href="https://elihenley.com/wp-content/uploads/2024/06/Heatstroke-4.jpg"><img loading="lazy" decoding="async" width="960" height="720" data-id="109" src="https://elihenley.com/wp-content/uploads/2024/06/Heatstroke-4.jpg" alt="" class="wp-image-109" srcset="https://elihenley.com/wp-content/uploads/2024/06/Heatstroke-4.jpg 960w, https://elihenley.com/wp-content/uploads/2024/06/Heatstroke-4-300x225.jpg 300w, https://elihenley.com/wp-content/uploads/2024/06/Heatstroke-4-768x576.jpg 768w" sizes="(max-width: 960px) 100vw, 960px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="https://elihenley.com/wp-content/uploads/2024/06/Heatstroke-2.jpg"><img loading="lazy" decoding="async" width="960" height="720" data-id="110" src="https://elihenley.com/wp-content/uploads/2024/06/Heatstroke-2.jpg" alt="" class="wp-image-110" srcset="https://elihenley.com/wp-content/uploads/2024/06/Heatstroke-2.jpg 960w, https://elihenley.com/wp-content/uploads/2024/06/Heatstroke-2-300x225.jpg 300w, https://elihenley.com/wp-content/uploads/2024/06/Heatstroke-2-768x576.jpg 768w" sizes="(max-width: 960px) 100vw, 960px" /></a></figure>
 </figure>
 
 
@@ -79,11 +63,15 @@
 
 
 
-<p>Four music videos were commissioned by Albuquerque band <em>Castle Doctor</em> to accompany the release of their 2024 EP<em> Storming the Palace</em>. Videos and effects were created live during the recording of the EP, using a variety of analog video equipment.</p>
+<p>Four music videos commissioned by Albuquerque band <em>Castle Doctor</em>. Videos accompanied the release of their 2024 EP<em> <a href="https://castledoctor.bandcamp.com/album/storming-the-palace" target="_blank" rel="noreferrer noopener">Storming the Palace</a></em>. Videos and effects were created live during the recording of the EP using a variety of analog video equipment.</p>
 
 
 
 <p>Camera OP and setup assistance from Tahj Sampson.</p>
+
+
+
+<p></p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://elihenley.com/2024/06/21/castle-doctor-music-videos/feed/</wfw:commentRss>
@@ -171,19 +159,15 @@
 		<category><![CDATA[Sculptures]]></category>
 		<guid isPermaLink="false">https://elihenley.com/?p=72</guid>
 
-					<description><![CDATA[Construction materials, digital photo frame, landline phone, electronics &#8211; 2022 Interactive installation sculpture. Piece was on display at Taylor Town.  Audience was prompted to pick up the phone handset, upon which a randomly selected quote would play. Quotes were in response to &#8220;something an angry, stifled suburban parent would say,&#8221; as interpreted and performed by [&#8230;]]]></description>
+					<description><![CDATA[Construction materials, digital photo frame, landline phone, electronics &#8211; Tortuga Gallery, Abq NM &#8211; 2022 Interactive installation sculpture. Piece was on display at Taylor Town, Tortuga Gallery, Abq NM.&#160; Answering the phone prompts a voicemail recording to play through the handset. There are 30 recordings, a random one selected each time one answers. Recordings respond [&#8230;]]]></description>
 										<content:encoded><![CDATA[
 <figure class="wp-block-gallery has-nested-images columns-1 wp-block-gallery-2 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="710" data-id="77" src="https://elihenley.com/wp-content/uploads/2024/06/league4-1024x710.jpeg" alt="" class="wp-image-77" srcset="https://elihenley.com/wp-content/uploads/2024/06/league4-1024x710.jpeg 1024w, https://elihenley.com/wp-content/uploads/2024/06/league4-300x208.jpeg 300w, https://elihenley.com/wp-content/uploads/2024/06/league4-768x532.jpeg 768w, https://elihenley.com/wp-content/uploads/2024/06/league4.jpeg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="864" data-id="76" src="https://elihenley.com/wp-content/uploads/2024/06/league2-1024x864.jpeg" alt="" class="wp-image-76" srcset="https://elihenley.com/wp-content/uploads/2024/06/league2-1024x864.jpeg 1024w, https://elihenley.com/wp-content/uploads/2024/06/league2-300x253.jpeg 300w, https://elihenley.com/wp-content/uploads/2024/06/league2-768x648.jpeg 768w, https://elihenley.com/wp-content/uploads/2024/06/league2.jpeg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 </figure>
 
 
 
-<h2 class="wp-block-heading">Construction materials, digital photo frame, landline phone, electronics &#8211; 2022</h2>
+<h2 class="wp-block-heading">Construction materials, digital photo frame, landline phone, electronics &#8211; Tortuga Gallery, Abq NM &#8211; 2022</h2>
 
 
 
@@ -191,15 +175,23 @@
 
 
 
-<p>Interactive installation sculpture. Piece was on display at <a href="https://elihenley.com/2024/06/20/taylor-town/" data-type="post" data-id="88">Taylor Town</a>. </p>
+<p>Interactive installation sculpture. Piece was on display at <a href="https://elihenley.com/2024/06/20/taylor-town/" data-type="post" data-id="88"><em>Taylor Town</em></a>, Tortuga Gallery, Abq NM.&nbsp;</p>
 
 
 
-<p>Audience was prompted to pick up the phone handset, upon which a randomly selected quote would play. Quotes were in response to &#8220;something an angry, stifled suburban parent would say,&#8221; as interpreted and performed by several collaborators.</p>
+<p>Answering the phone prompts a voicemail recording to play through the handset. There are 30 recordings, a random one selected each time one answers. Recordings respond to &#8220;something an angry, stifled suburban parent would say&#8221; as interpreted and performed by several collaborators.</p>
 
 
 
-<p>The adjacent photo frame played a looping slideshow of local real-estate photos, which were chosen to compliment the quotes from the phone handset.</p>
+<p>The adjacent photo frame plays a looping slideshow of local real-estate photos to compliment the voicemails.</p>
+
+
+
+<div style="height:22px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="864" src="https://elihenley.com/wp-content/uploads/2024/06/league2-1024x864.jpeg" alt="" class="wp-image-76" srcset="https://elihenley.com/wp-content/uploads/2024/06/league2-1024x864.jpeg 1024w, https://elihenley.com/wp-content/uploads/2024/06/league2-300x253.jpeg 300w, https://elihenley.com/wp-content/uploads/2024/06/league2-768x648.jpeg 768w, https://elihenley.com/wp-content/uploads/2024/06/league2.jpeg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://elihenley.com/2024/06/19/league-of-extraordinary-homes/feed/</wfw:commentRss>
@@ -223,7 +215,7 @@
 					<description><![CDATA[Video + electronic device &#8211; 2022 As it says on the tin: a music keyboard combined with a casino video game system. The keyboard’s keys are used to control and play your choice of 15 casino classics.&#160; The accompanying mockumentary-style video profiles a presumed target user while explaining the device’s functions.]]></description>
 										<content:encoded><![CDATA[
 <div class="wp-block-group is-nowrap is-layout-flex wp-container-core-group-is-layout-1 wp-block-group-is-layout-flex">
-<div style="height:100px;width:0px" aria-hidden="true" class="wp-block-spacer wp-container-content-3"></div>
+<div style="height:100px;width:0px" aria-hidden="true" class="wp-block-spacer wp-container-content-1"></div>
 
 
 
@@ -231,13 +223,13 @@
 
 
 
-<div style="height:100px;width:0px" aria-hidden="true" class="wp-block-spacer wp-container-content-4"></div>
+<div style="height:100px;width:0px" aria-hidden="true" class="wp-block-spacer wp-container-content-2"></div>
 </div>
 
 
 
 <div class="wp-block-group is-nowrap is-layout-flex wp-container-core-group-is-layout-2 wp-block-group-is-layout-flex">
-<div style="height:100px;width:16px" aria-hidden="true" class="wp-block-spacer wp-container-content-5"></div>
+<div style="height:100px;width:16px" aria-hidden="true" class="wp-block-spacer wp-container-content-3"></div>
 
 
 
@@ -245,7 +237,7 @@
 
 
 
-<div style="height:100px;width:0px" aria-hidden="true" class="wp-block-spacer wp-container-content-6"></div>
+<div style="height:100px;width:0px" aria-hidden="true" class="wp-block-spacer wp-container-content-4"></div>
 </div>
 
 

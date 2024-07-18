@@ -9,16 +9,16 @@
 
 <channel>
 	<title>Electrical devices &#8211; Eli Henley</title>
-	<atom:link href="http://localhost/category/electrical-devices/feed/?simply_static_page=7248" rel="self" type="application/rss+xml" />
+	<atom:link href="https://elihenley.com/category/electrical-devices/feed/" rel="self" type="application/rss+xml" />
 	<link>https://elihenley.com/</link>
 	<description></description>
-	<lastBuildDate>Thu, 27 Jun 2024 20:42:55 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 18 Jul 2024 19:20:17 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<generator>https://wordpress.org/?v=6.6</generator>
 	<item>
 		<title>The Reifier</title>
 		<link>https://elihenley.com/2024/06/27/the-reifier/</link>
@@ -31,7 +31,7 @@
 		<category><![CDATA[Sculptures]]></category>
 		<guid isPermaLink="false">https://elihenley.com/?p=142</guid>
 
-					<description><![CDATA[Steel, circuit boards, lights, misc. electronics components, wire, solder, hardware &#8211; 2024 A wearable interactive sculpture and electrical device. When worn, the Reifier surmises and “transcribes” the wearer&#8217;s inner emotions into a display of twenty lights. Each light corresponds to a specific mood or desire, and more than one may be illuminated at a time. [&#8230;]]]></description>
+					<description><![CDATA[Steel, circuit boards, lights, misc. electronics components, wire, solder, hardware &#8211; 2024 A wearable interactive sculpture and electrical device. When worn, the Reifier surmises and “transcribes” its wearer&#8217;s inner emotions into a display of twenty lights. Each light corresponds to a specific mood or desire. more than one may be illuminated at a time. This [&#8230;]]]></description>
 										<content:encoded><![CDATA[
 <figure class="wp-block-image size-large"><a href="https://elihenley.com/wp-content/uploads/2024/06/reifier-8-cornerphoto-Large.jpeg"><img fetchpriority="high" decoding="async" width="799" height="1024" src="https://elihenley.com/wp-content/uploads/2024/06/reifier-8-cornerphoto-Large-799x1024.jpeg" alt="" class="wp-image-154" srcset="https://elihenley.com/wp-content/uploads/2024/06/reifier-8-cornerphoto-Large-799x1024.jpeg 799w, https://elihenley.com/wp-content/uploads/2024/06/reifier-8-cornerphoto-Large-234x300.jpeg 234w, https://elihenley.com/wp-content/uploads/2024/06/reifier-8-cornerphoto-Large-768x984.jpeg 768w, https://elihenley.com/wp-content/uploads/2024/06/reifier-8-cornerphoto-Large.jpeg 999w" sizes="(max-width: 799px) 100vw, 799px" /></a></figure>
 
@@ -45,15 +45,15 @@
 
 
 
-<p>A wearable interactive sculpture and electrical device. When worn, the Reifier surmises and “transcribes” the wearer&#8217;s inner emotions into a display of twenty lights. Each light corresponds to a specific mood or desire, and more than one may be illuminated at a time. This output can then be read and transcribed by the surrounding audience to determine the wearer’s state of being. A new output is generated each time the wearer speaks or moves their jaw.</p>
+<p>A wearable interactive sculpture and electrical device. When worn, the Reifier surmises and “transcribes” its wearer&#8217;s inner emotions into a display of twenty lights. Each light corresponds to a specific mood or desire. more than one may be illuminated at a time. This output can be read and transcribed by the audience to determine the wearer’s state of being. A new output is generated each time the wearer speaks or moves their jaw.</p>
 
 
 
-<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+<div style="height:22px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
 
-<p>The Reifier uses no microcontrollers or computer programming. Its circuitry is purpose built to fulfill this function.</p>
+<p>The Reifier uses no microcontrollers or computer programming. Its circuitry is purpose built to fulfill its function.</p>
 
 
 
@@ -61,7 +61,7 @@
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized has-custom-border is-style-default"><a href="https://elihenley.com/wp-content/uploads/2024/06/QLGv4-yellowed.jpg"><img decoding="async" width="791" height="1024" src="https://elihenley.com/wp-content/uploads/2024/06/QLGv4-yellowed-791x1024.jpg" alt="" class="wp-image-153" style="border-style:none;border-width:0px;border-radius:0px;width:521px;height:auto" srcset="https://elihenley.com/wp-content/uploads/2024/06/QLGv4-yellowed-791x1024.jpg 791w, https://elihenley.com/wp-content/uploads/2024/06/QLGv4-yellowed-232x300.jpg 232w, https://elihenley.com/wp-content/uploads/2024/06/QLGv4-yellowed-768x994.jpg 768w, https://elihenley.com/wp-content/uploads/2024/06/QLGv4-yellowed.jpg 850w" sizes="(max-width: 791px) 100vw, 791px" /></a></figure>
+<figure class="wp-block-image aligncenter size-large is-resized has-custom-border is-style-default"><a href="https://elihenley.com/wp-content/uploads/2024/06/QLGv4-yellowed.jpg"><img decoding="async" width="791" height="1024" src="https://elihenley.com/wp-content/uploads/2024/06/QLGv4-yellowed-791x1024.jpg" alt="" class="wp-image-153" style="border-style:none;border-width:0px;border-radius:0px;width:593px;height:auto" srcset="https://elihenley.com/wp-content/uploads/2024/06/QLGv4-yellowed-791x1024.jpg 791w, https://elihenley.com/wp-content/uploads/2024/06/QLGv4-yellowed-232x300.jpg 232w, https://elihenley.com/wp-content/uploads/2024/06/QLGv4-yellowed-768x994.jpg 768w, https://elihenley.com/wp-content/uploads/2024/06/QLGv4-yellowed.jpg 850w" sizes="(max-width: 791px) 100vw, 791px" /></a></figure>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://elihenley.com/2024/06/27/the-reifier/feed/</wfw:commentRss>
@@ -81,7 +81,7 @@
 		<category><![CDATA[Sculptures]]></category>
 		<guid isPermaLink="false">https://elihenley.com/?p=127</guid>
 
-					<description><![CDATA[Steel, silicone tubing, water pump, power supply &#8211; 2023 A Slow-dripping fountain made of steel. Water drips out of a craning vertical tube and is captured in a bowl below. Water is then recirculated by a pump concealed in the base.]]></description>
+					<description><![CDATA[Steel, silicone tubing, water pump, power supply &#8211; 2023 A Slow-dripping fountain made of steel. Water drips out of a craning vertical tube and is captured in a bowl. Water is recirculated by a pump concealed in the base.]]></description>
 										<content:encoded><![CDATA[
 <figure class="wp-block-image size-large"><img decoding="async" width="682" height="1024" src="https://elihenley.com/wp-content/uploads/2024/06/fountain1-Large-682x1024.jpeg" alt="" class="wp-image-129" srcset="https://elihenley.com/wp-content/uploads/2024/06/fountain1-Large-682x1024.jpeg 682w, https://elihenley.com/wp-content/uploads/2024/06/fountain1-Large-200x300.jpeg 200w, https://elihenley.com/wp-content/uploads/2024/06/fountain1-Large-768x1152.jpeg 768w, https://elihenley.com/wp-content/uploads/2024/06/fountain1-Large.jpeg 853w" sizes="(max-width: 682px) 100vw, 682px" /></figure>
 
@@ -95,7 +95,11 @@
 
 
 
-<p>A Slow-dripping fountain made of steel. Water drips out of a craning vertical tube and is captured in a bowl below. Water is then recirculated by a pump concealed in the base.</p>
+<p>A Slow-dripping fountain made of steel. Water drips out of a craning vertical tube and is captured in a bowl. Water is recirculated by a pump concealed in the base.</p>
+
+
+
+<p></p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://elihenley.com/2024/06/21/metal-fountain/feed/</wfw:commentRss>
@@ -143,7 +147,9 @@
 
 
 
-<p><em>All we’re allowed of Last Fluesday are the auditory and visual entrapments within this box, when it was last allowed to absorb the environment as it was; for it was then sealed with helical fasteners turned by a long and skinny rotator quite visibly angry.</em></p>
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p>All we’re allowed of Last Fluesday are the auditory and visual entrapments within this box, when it was last allowed to absorb the environment as it was; for it was then sealed with helical fasteners turned by a long and skinny rotator quite visibly angry.</p>
+</blockquote>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://elihenley.com/2024/06/21/things-according-to-last-fluesday/feed/</wfw:commentRss>
@@ -163,19 +169,15 @@
 		<category><![CDATA[Sculptures]]></category>
 		<guid isPermaLink="false">https://elihenley.com/?p=72</guid>
 
-					<description><![CDATA[Construction materials, digital photo frame, landline phone, electronics &#8211; 2022 Interactive installation sculpture. Piece was on display at Taylor Town.  Audience was prompted to pick up the phone handset, upon which a randomly selected quote would play. Quotes were in response to &#8220;something an angry, stifled suburban parent would say,&#8221; as interpreted and performed by [&#8230;]]]></description>
+					<description><![CDATA[Construction materials, digital photo frame, landline phone, electronics &#8211; Tortuga Gallery, Abq NM &#8211; 2022 Interactive installation sculpture. Piece was on display at Taylor Town, Tortuga Gallery, Abq NM.&#160; Answering the phone prompts a voicemail recording to play through the handset. There are 30 recordings, a random one selected each time one answers. Recordings respond [&#8230;]]]></description>
 										<content:encoded><![CDATA[
 <figure class="wp-block-gallery has-nested-images columns-1 wp-block-gallery-2 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="710" data-id="77" src="https://elihenley.com/wp-content/uploads/2024/06/league4-1024x710.jpeg" alt="" class="wp-image-77" srcset="https://elihenley.com/wp-content/uploads/2024/06/league4-1024x710.jpeg 1024w, https://elihenley.com/wp-content/uploads/2024/06/league4-300x208.jpeg 300w, https://elihenley.com/wp-content/uploads/2024/06/league4-768x532.jpeg 768w, https://elihenley.com/wp-content/uploads/2024/06/league4.jpeg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="864" data-id="76" src="https://elihenley.com/wp-content/uploads/2024/06/league2-1024x864.jpeg" alt="" class="wp-image-76" srcset="https://elihenley.com/wp-content/uploads/2024/06/league2-1024x864.jpeg 1024w, https://elihenley.com/wp-content/uploads/2024/06/league2-300x253.jpeg 300w, https://elihenley.com/wp-content/uploads/2024/06/league2-768x648.jpeg 768w, https://elihenley.com/wp-content/uploads/2024/06/league2.jpeg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 </figure>
 
 
 
-<h2 class="wp-block-heading">Construction materials, digital photo frame, landline phone, electronics &#8211; 2022</h2>
+<h2 class="wp-block-heading">Construction materials, digital photo frame, landline phone, electronics &#8211; Tortuga Gallery, Abq NM &#8211; 2022</h2>
 
 
 
@@ -183,15 +185,23 @@
 
 
 
-<p>Interactive installation sculpture. Piece was on display at <a href="https://elihenley.com/2024/06/20/taylor-town/" data-type="post" data-id="88">Taylor Town</a>. </p>
+<p>Interactive installation sculpture. Piece was on display at <a href="https://elihenley.com/2024/06/20/taylor-town/" data-type="post" data-id="88"><em>Taylor Town</em></a>, Tortuga Gallery, Abq NM.&nbsp;</p>
 
 
 
-<p>Audience was prompted to pick up the phone handset, upon which a randomly selected quote would play. Quotes were in response to &#8220;something an angry, stifled suburban parent would say,&#8221; as interpreted and performed by several collaborators.</p>
+<p>Answering the phone prompts a voicemail recording to play through the handset. There are 30 recordings, a random one selected each time one answers. Recordings respond to &#8220;something an angry, stifled suburban parent would say&#8221; as interpreted and performed by several collaborators.</p>
 
 
 
-<p>The adjacent photo frame played a looping slideshow of local real-estate photos, which were chosen to compliment the quotes from the phone handset.</p>
+<p>The adjacent photo frame plays a looping slideshow of local real-estate photos to compliment the voicemails.</p>
+
+
+
+<div style="height:22px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="864" src="https://elihenley.com/wp-content/uploads/2024/06/league2-1024x864.jpeg" alt="" class="wp-image-76" srcset="https://elihenley.com/wp-content/uploads/2024/06/league2-1024x864.jpeg 1024w, https://elihenley.com/wp-content/uploads/2024/06/league2-300x253.jpeg 300w, https://elihenley.com/wp-content/uploads/2024/06/league2-768x648.jpeg 768w, https://elihenley.com/wp-content/uploads/2024/06/league2.jpeg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://elihenley.com/2024/06/19/league-of-extraordinary-homes/feed/</wfw:commentRss>
@@ -215,7 +225,7 @@
 					<description><![CDATA[Video + electronic device &#8211; 2022 As it says on the tin: a music keyboard combined with a casino video game system. The keyboard’s keys are used to control and play your choice of 15 casino classics.&#160; The accompanying mockumentary-style video profiles a presumed target user while explaining the device’s functions.]]></description>
 										<content:encoded><![CDATA[
 <div class="wp-block-group is-nowrap is-layout-flex wp-container-core-group-is-layout-1 wp-block-group-is-layout-flex">
-<div style="height:100px;width:0px" aria-hidden="true" class="wp-block-spacer wp-container-content-3"></div>
+<div style="height:100px;width:0px" aria-hidden="true" class="wp-block-spacer wp-container-content-1"></div>
 
 
 
@@ -223,13 +233,13 @@
 
 
 
-<div style="height:100px;width:0px" aria-hidden="true" class="wp-block-spacer wp-container-content-4"></div>
+<div style="height:100px;width:0px" aria-hidden="true" class="wp-block-spacer wp-container-content-2"></div>
 </div>
 
 
 
 <div class="wp-block-group is-nowrap is-layout-flex wp-container-core-group-is-layout-2 wp-block-group-is-layout-flex">
-<div style="height:100px;width:16px" aria-hidden="true" class="wp-block-spacer wp-container-content-5"></div>
+<div style="height:100px;width:16px" aria-hidden="true" class="wp-block-spacer wp-container-content-3"></div>
 
 
 
@@ -237,7 +247,7 @@
 
 
 
-<div style="height:100px;width:0px" aria-hidden="true" class="wp-block-spacer wp-container-content-6"></div>
+<div style="height:100px;width:0px" aria-hidden="true" class="wp-block-spacer wp-container-content-4"></div>
 </div>
 
 

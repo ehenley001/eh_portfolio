@@ -9,17 +9,57 @@
 
 <channel>
 	<title>Uncategorized &#8211; Eli Henley</title>
-	<atom:link href="http://localhost/category/uncategorized/feed/?simply_static_page=7262" rel="self" type="application/rss+xml" />
+	<atom:link href="https://elihenley.com/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
 	<link>https://elihenley.com/</link>
 	<description></description>
-	<lastBuildDate>Thu, 20 Jun 2024 03:21:20 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 18 Jul 2024 19:02:31 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<generator>https://wordpress.org/?v=6.6</generator>
 	<item>
+		<title>It Begins and Ends with Brown Water</title>
+		<link>https://elihenley.com/2024/07/18/it-begins-and-ends-with-brown-water/</link>
+					<comments>https://elihenley.com/2024/07/18/it-begins-and-ends-with-brown-water/#respond</comments>
+		
+		<dc:creator><![CDATA[elihenley]]></dc:creator>
+		<pubDate>Thu, 18 Jul 2024 19:02:05 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://elihenley.com/?p=181</guid>
+
+					<description><![CDATA[Video &#8211; 04:09 &#8211; 2024 A short film regarding the worst smell imaginable. inspired by a moldy coffee maker and a variety of other found kitchen objects. Created using analog video equipment and a magnifying glass.]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="It Begins and Ends with Brown Water" width="500" height="375" src="https://www.youtube.com/embed/O45DmmI90aY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<h2 class="wp-block-heading">Video &#8211; 04:09 &#8211; 2024</h2>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p>A short film regarding the worst smell imaginable.</p>
+</blockquote>
+
+
+
+<div style="height:22px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p>inspired by a moldy coffee maker and a variety of other found kitchen objects. Created using analog video equipment and a magnifying glass. </p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://elihenley.com/2024/07/18/it-begins-and-ends-with-brown-water/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>The World&#8217;s First Combination Keyboard and Casino Games Device</title>
 		<link>https://elihenley.com/2024/06/18/the-worlds-first-combination-keyboard-and-casino-games-device/</link>
 					<comments>https://elihenley.com/2024/06/18/the-worlds-first-combination-keyboard-and-casino-games-device/#respond</comments>
@@ -83,7 +123,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="The World&#039;s First Combination Keyboard and Casino Games Device (reupload)" width="500" height="281" src="https://www.youtube.com/embed/J4fwRwBgGJM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe loading="lazy" title="The World&#039;s First Combination Keyboard and Casino Games Device (reupload)" width="500" height="281" src="https://www.youtube.com/embed/J4fwRwBgGJM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 ]]></content:encoded>
 					
