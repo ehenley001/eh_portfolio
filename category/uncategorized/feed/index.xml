@@ -12,7 +12,7 @@
 	<atom:link href="https://elihenley.com/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
 	<link>https://elihenley.com/</link>
 	<description></description>
-	<lastBuildDate>Thu, 18 Jul 2024 19:44:29 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 18 Jul 2024 20:02:37 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -26,7 +26,10 @@
 		
 		<dc:creator><![CDATA[elihenley]]></dc:creator>
 		<pubDate>Thu, 18 Jul 2024 19:02:05 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
+				<category><![CDATA[2024]]></category>
+		<category><![CDATA[Sound]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Videos]]></category>
 		<guid isPermaLink="false">https://elihenley.com/?p=181</guid>
 
 					<description><![CDATA[Video &#8211; 04:09 &#8211; 2024 A short film regarding the worst smell imaginable. inspired by a moldy coffee maker and a variety of found kitchen objects. Visuals created with analog video equipment and a magnifying glass.]]></description>
