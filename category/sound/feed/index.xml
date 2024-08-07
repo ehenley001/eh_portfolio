@@ -12,13 +12,13 @@
 	<atom:link href="https://elihenley.com/category/sound/feed/" rel="self" type="application/rss+xml" />
 	<link>https://elihenley.com/</link>
 	<description></description>
-	<lastBuildDate>Thu, 18 Jul 2024 20:02:37 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 07 Aug 2024 23:06:32 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.6</generator>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
 	<item>
 		<title>It Begins and Ends with Brown Water</title>
 		<link>https://elihenley.com/2024/07/18/it-begins-and-ends-with-brown-water/</link>
@@ -32,7 +32,7 @@
 		<category><![CDATA[Videos]]></category>
 		<guid isPermaLink="false">https://elihenley.com/?p=181</guid>
 
-					<description><![CDATA[Video &#8211; 04:09 &#8211; 2024 A short film regarding the worst smell imaginable. inspired by a moldy coffee maker and a variety of found kitchen objects. Visuals created with analog video equipment and a magnifying glass.]]></description>
+					<description><![CDATA[Video &#8211; 04:09 &#8211; 2024 A short film regarding the worst smell imaginable. inspired by a moldy coffee maker and a variety of found kitchen objects. Visuals created with standard definition video equipment and a magnifying glass.]]></description>
 										<content:encoded><![CDATA[
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
 <iframe title="It Begins and Ends with Brown Water" width="500" height="375" src="https://www.youtube.com/embed/O45DmmI90aY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -54,7 +54,7 @@
 
 
 
-<p>inspired by a moldy coffee maker and a variety of found kitchen objects. Visuals created with analog video equipment and a magnifying glass.</p>
+<p>inspired by a moldy coffee maker and a variety of found kitchen objects. Visuals created with standard definition video equipment and a magnifying glass.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://elihenley.com/2024/07/18/it-begins-and-ends-with-brown-water/feed/</wfw:commentRss>
