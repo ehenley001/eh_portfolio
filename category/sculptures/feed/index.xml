@@ -12,13 +12,13 @@
 	<atom:link href="https://elihenley.com/category/sculptures/feed/" rel="self" type="application/rss+xml" />
 	<link>https://elihenley.com/</link>
 	<description></description>
-	<lastBuildDate>Thu, 18 Jul 2024 19:20:17 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 04 Nov 2024 00:03:58 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
 	<item>
 		<title>The Reifier</title>
 		<link>https://elihenley.com/2024/06/27/the-reifier/</link>
@@ -31,9 +31,9 @@
 		<category><![CDATA[Sculptures]]></category>
 		<guid isPermaLink="false">https://elihenley.com/?p=142</guid>
 
-					<description><![CDATA[Steel, circuit boards, lights, misc. electronics components, wire, solder, hardware &#8211; 2024 A wearable interactive sculpture and electrical device. When worn, the Reifier surmises and “transcribes” its wearer&#8217;s inner emotions into a display of twenty lights. Each light corresponds to a specific mood or desire. more than one may be illuminated at a time. This [&#8230;]]]></description>
+					<description><![CDATA[Steel, circuit boards, lights, misc. electronics components, wire, solder, hardware &#8211; 2024 The Reifier is a wearable interactive sculpture and electrical device. It works to “surmise” and “transcribe” its wearer’s inner emotions into a display of twenty lights, each light corresponding to a specific mood or desire. The accompanying Quick Lookup Guide provides information on [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><a href="https://elihenley.com/wp-content/uploads/2024/06/reifier-8-cornerphoto-Large.jpeg"><img fetchpriority="high" decoding="async" width="799" height="1024" src="https://elihenley.com/wp-content/uploads/2024/06/reifier-8-cornerphoto-Large-799x1024.jpeg" alt="" class="wp-image-154" srcset="https://elihenley.com/wp-content/uploads/2024/06/reifier-8-cornerphoto-Large-799x1024.jpeg 799w, https://elihenley.com/wp-content/uploads/2024/06/reifier-8-cornerphoto-Large-234x300.jpeg 234w, https://elihenley.com/wp-content/uploads/2024/06/reifier-8-cornerphoto-Large-768x984.jpeg 768w, https://elihenley.com/wp-content/uploads/2024/06/reifier-8-cornerphoto-Large.jpeg 999w" sizes="(max-width: 799px) 100vw, 799px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="https://elihenley.com/wp-content/uploads/2024/06/reifier-8-Large-1.jpeg"><img fetchpriority="high" decoding="async" width="799" height="1024" src="https://elihenley.com/wp-content/uploads/2024/06/reifier-8-Large-1-799x1024.jpeg" alt="" class="wp-image-151" srcset="https://elihenley.com/wp-content/uploads/2024/06/reifier-8-Large-1-799x1024.jpeg 799w, https://elihenley.com/wp-content/uploads/2024/06/reifier-8-Large-1-234x300.jpeg 234w, https://elihenley.com/wp-content/uploads/2024/06/reifier-8-Large-1-768x984.jpeg 768w, https://elihenley.com/wp-content/uploads/2024/06/reifier-8-Large-1.jpeg 999w" sizes="(max-width: 799px) 100vw, 799px" /></a></figure>
 
 
 
@@ -45,23 +45,47 @@
 
 
 
-<p>A wearable interactive sculpture and electrical device. When worn, the Reifier surmises and “transcribes” its wearer&#8217;s inner emotions into a display of twenty lights. Each light corresponds to a specific mood or desire. more than one may be illuminated at a time. This output can be read and transcribed by the audience to determine the wearer’s state of being. A new output is generated each time the wearer speaks or moves their jaw.</p>
+<p>The Reifier is a wearable interactive sculpture and electrical device. It works to “surmise” and “transcribe” its wearer’s inner emotions into a display of twenty lights, each light corresponding to a specific mood or desire. The accompanying <em><a href="#qlg">Quick Lookup Guide</a></em> provides information on each light’s associated meaning.</p>
 
 
 
-<div style="height:22px" aria-hidden="true" class="wp-block-spacer"></div>
+<p></p>
 
 
 
-<p>The Reifier uses no microcontrollers or computer programming. Its circuitry is purpose built to fulfill its function.</p>
+<p>As the wearer speaks or moves their jaw, a button, which is adjusted to sit under their chin, is pressed. This activates The Reifier, displaying an output. This output can be read by a surrounding audience to “understand” the wearer’s state of being, relying on our ability to project our own, utterly meaningful “truths” onto structured, yet arbitrary information. There are 16 unique output states The Reifier can display, which are cycled through with each press of the button.&nbsp;</p>
 
 
 
-<div style="height:24px" aria-hidden="true" class="wp-block-spacer"></div>
+<p></p>
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized has-custom-border is-style-default"><a href="https://elihenley.com/wp-content/uploads/2024/06/QLGv4-yellowed.jpg"><img decoding="async" width="791" height="1024" src="https://elihenley.com/wp-content/uploads/2024/06/QLGv4-yellowed-791x1024.jpg" alt="" class="wp-image-153" style="border-style:none;border-width:0px;border-radius:0px;width:593px;height:auto" srcset="https://elihenley.com/wp-content/uploads/2024/06/QLGv4-yellowed-791x1024.jpg 791w, https://elihenley.com/wp-content/uploads/2024/06/QLGv4-yellowed-232x300.jpg 232w, https://elihenley.com/wp-content/uploads/2024/06/QLGv4-yellowed-768x994.jpg 768w, https://elihenley.com/wp-content/uploads/2024/06/QLGv4-yellowed.jpg 850w" sizes="(max-width: 791px) 100vw, 791px" /></a></figure>
+<p>The Reifier uses no microcontrollers. Its circuitry is purpose built, making use of simple ICs and discrete components. It notably uses a technology called “core rope memory”, which allows programming of The Reifier through physical “weaving” of wires through magnetic cores.&nbsp;</p>
+
+
+
+<div style="height:38px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p><strong>Demonstration video</strong></p>
+
+
+
+<figure class="wp-block-boldblocks-youtube-block"><div id="yb-video-lJ9GQcPnR7g" class="yb-player" data-video-id="lJ9GQcPnR7g" data-title="Play" style="background-image:url(https://img.youtube.com/vi/lJ9GQcPnR7g/maxresdefault.jpg)" data-params="{&quot;rel&quot;:0}"><button type="button" class="yb-btn-play"><span class="visually-hidden">Play</span></button></div></figure>
+
+
+
+<div style="height:38px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p><strong>Quick Lookup Guide</strong> (click to expand)</p>
+
+
+
+<figure class="wp-block-image aligncenter size-large has-custom-border is-style-default" id="qlg"><a href="https://elihenley.com/wp-content/uploads/2024/06/QLGv4-yellowed.jpg"><img decoding="async" width="791" height="1024" src="https://elihenley.com/wp-content/uploads/2024/06/QLGv4-yellowed-791x1024.jpg" alt="" class="wp-image-153" style="border-style:none;border-width:0px;border-radius:0px;object-fit:cover" srcset="https://elihenley.com/wp-content/uploads/2024/06/QLGv4-yellowed-791x1024.jpg 791w, https://elihenley.com/wp-content/uploads/2024/06/QLGv4-yellowed-232x300.jpg 232w, https://elihenley.com/wp-content/uploads/2024/06/QLGv4-yellowed-768x994.jpg 768w, https://elihenley.com/wp-content/uploads/2024/06/QLGv4-yellowed.jpg 850w" sizes="(max-width: 791px) 100vw, 791px" /></a></figure>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://elihenley.com/2024/06/27/the-reifier/feed/</wfw:commentRss>

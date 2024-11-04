@@ -12,13 +12,13 @@
 	<atom:link href="https://elihenley.com/category/2023/feed/" rel="self" type="application/rss+xml" />
 	<link>https://elihenley.com/</link>
 	<description></description>
-	<lastBuildDate>Wed, 07 Aug 2024 23:06:19 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 04 Nov 2024 00:06:54 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
 	<item>
 		<title>Rotubula</title>
 		<link>https://elihenley.com/2024/06/27/rotubula/</link>
@@ -54,9 +54,7 @@
 
 
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Rotubula" width="500" height="375" src="https://www.youtube.com/embed/8VyEXlHrEqc?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div></figure>
+<figure style="--byeb--aspect-ratio:75.00%" class="wp-block-boldblocks-youtube-block"><div id="yb-video-8VyEXlHrEqc" class="yb-player" data-video-id="8VyEXlHrEqc" data-title="Play" style="background-image:url(https://img.youtube.com/vi/8VyEXlHrEqc/maxresdefault.jpg)" data-params="{&quot;rel&quot;:0}"><button type="button" class="yb-btn-play"><span class="visually-hidden">Play</span></button></div></figure>
 
 
 
