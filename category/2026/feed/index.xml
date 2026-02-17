@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>2026 &#8211; Eli Henley</title>
+	<atom:link href="https://elihenley.com/category/2026/feed/" rel="self" type="application/rss+xml" />
+	<link>https://elihenley.com/</link>
+	<description></description>
+	<lastBuildDate>Tue, 17 Feb 2026 03:46:34 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.9.1</generator>
+	<item>
+		<title>Akron Music Scene</title>
+		<link>https://elihenley.com/2026/02/17/akron-music-scene/</link>
+					<comments>https://elihenley.com/2026/02/17/akron-music-scene/#respond</comments>
+		
+		<dc:creator><![CDATA[elihenley]]></dc:creator>
+		<pubDate>Tue, 17 Feb 2026 03:41:44 +0000</pubDate>
+				<category><![CDATA[2026]]></category>
+		<category><![CDATA[Sculptures]]></category>
+		<guid isPermaLink="false">https://elihenley.com/?p=297</guid>
+
+					<description><![CDATA[Steel, Wood, String, Light Bulbs, Wire &#8211; 2026 A reminder of the Akron, Ohio music scene (the &#8220;Akron Sound&#8221;) of 1976 &#8211; 1983. USB powered for convenience.]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="582" src="https://elihenley.com/wp-content/uploads/2026/02/P1003637-4-Large-1024x582.jpeg" alt="" class="wp-image-302" srcset="https://elihenley.com/wp-content/uploads/2026/02/P1003637-4-Large-1024x582.jpeg 1024w, https://elihenley.com/wp-content/uploads/2026/02/P1003637-4-Large-300x171.jpeg 300w, https://elihenley.com/wp-content/uploads/2026/02/P1003637-4-Large-768x437.jpeg 768w, https://elihenley.com/wp-content/uploads/2026/02/P1003637-4-Large.jpeg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p><strong>Steel, Wood, String, Light Bulbs, Wire &#8211; 2026</strong></p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p>A reminder of the Akron, Ohio music scene (the &#8220;Akron Sound&#8221;) of 1976 &#8211; 1983. USB powered for convenience.</p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://elihenley.com/2026/02/17/akron-music-scene/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
