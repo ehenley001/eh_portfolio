@@ -11,11 +11,11 @@
 	<atom:link href="https://elihenley.com/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://elihenley.com/</link>
 	<description></description>
-	<lastBuildDate>Tue, 17 Feb 2026 03:46:34 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 01 Sep 2026 17:23:01 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.9.1</generator>
+	<generator>https://wordpress.org/?v=7.1</generator>
 </channel>
 </rss>

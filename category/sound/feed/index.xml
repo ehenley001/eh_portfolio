@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.9.1</generator>
+	<generator>https://wordpress.org/?v=7.1</generator>
 	<item>
 		<title>Conversation / Chattering</title>
 		<link>https://elihenley.com/2024/11/07/conversation-chattering-device/</link>
@@ -38,7 +38,7 @@
 
 
 
-<p><strong>Wood, speaker, microphone, steel wire, Copper wire, electronics, audio amplifier &#8211; 2024</strong></p>
+<p class="wp-block-paragraph"><strong>Wood, speaker, microphone, steel wire, Copper wire, electronics, audio amplifier &#8211; 2024</strong></p>
 
 
 
@@ -46,7 +46,7 @@
 
 
 
-<p>This conversation is a feedback loop. </p>
+<p class="wp-block-paragraph">This conversation is a feedback loop. </p>
 
 
 
@@ -54,7 +54,7 @@
 
 
 
-<p>The speaker converses with the microphone. The microphone is mounted to an articulating arm. Feedback occurs when they get close to each other. The speaker ejects the microphone when they make contact. Adjusting volume affects the intensity and speed of the chatter.</p>
+<p class="wp-block-paragraph">The speaker converses with the microphone. The microphone is mounted to an articulating arm. Feedback occurs when they get close to each other. The speaker ejects the microphone when they make contact. Adjusting volume affects the intensity and speed of the chatter.</p>
 
 
 
@@ -62,7 +62,7 @@
 
 
 
-<p><strong>Demonstration video</strong></p>
+<p class="wp-block-paragraph"><strong>Demonstration video</strong></p>
 
 
 
@@ -112,7 +112,7 @@
 
 
 <blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
-<p>A short film regarding the worst smell imaginable.</p>
+<p class="wp-block-paragraph">A short film regarding the worst smell imaginable.</p>
 </blockquote>
 
 
@@ -121,7 +121,7 @@
 
 
 
-<p>inspired by a moldy coffee maker and a variety of found kitchen objects. Visuals created with standard definition video equipment and a magnifying glass.</p>
+<p class="wp-block-paragraph">inspired by a moldy coffee maker and a variety of found kitchen objects. Visuals created with standard definition video equipment and a magnifying glass.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://elihenley.com/2024/07/18/it-begins-and-ends-with-brown-water/feed/</wfw:commentRss>

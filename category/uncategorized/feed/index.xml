@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.9.1</generator>
+	<generator>https://wordpress.org/?v=7.1</generator>
 	<item>
 		<title>It Begins and Ends with Brown Water</title>
 		<link>https://elihenley.com/2024/07/18/it-begins-and-ends-with-brown-water/</link>
@@ -49,7 +49,7 @@
 
 
 <blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
-<p>A short film regarding the worst smell imaginable.</p>
+<p class="wp-block-paragraph">A short film regarding the worst smell imaginable.</p>
 </blockquote>
 
 
@@ -58,7 +58,7 @@
 
 
 
-<p>inspired by a moldy coffee maker and a variety of found kitchen objects. Visuals created with standard definition video equipment and a magnifying glass.</p>
+<p class="wp-block-paragraph">inspired by a moldy coffee maker and a variety of found kitchen objects. Visuals created with standard definition video equipment and a magnifying glass.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://elihenley.com/2024/07/18/it-begins-and-ends-with-brown-water/feed/</wfw:commentRss>

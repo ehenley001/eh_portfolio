@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.9.1</generator>
+	<generator>https://wordpress.org/?v=7.1</generator>
 	<item>
 		<title>Akron Music Scene</title>
 		<link>https://elihenley.com/2026/02/17/akron-music-scene/</link>
@@ -36,7 +36,7 @@
 
 
 
-<p><strong>Steel, Wood, String, Light Bulbs, Wire &#8211; 2026</strong></p>
+<p class="wp-block-paragraph"><strong>Steel, Wood, String, Light Bulbs, Wire &#8211; 2026</strong></p>
 
 
 
@@ -44,11 +44,11 @@
 
 
 
-<p>A reminder of the Akron, Ohio music scene (the &#8220;Akron Sound&#8221;) of 1976 &#8211; 1983. USB powered for convenience.</p>
+<p class="wp-block-paragraph">A reminder of the Akron, Ohio music scene (the &#8220;Akron Sound&#8221;) of 1976 &#8211; 1983. USB powered for convenience.</p>
 
 
 
-<p></p>
+<p class="wp-block-paragraph"></p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://elihenley.com/2026/02/17/akron-music-scene/feed/</wfw:commentRss>

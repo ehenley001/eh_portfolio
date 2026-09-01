@@ -12,31 +12,69 @@
 	<atom:link href="https://elihenley.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://elihenley.com/</link>
 	<description></description>
-	<lastBuildDate>Tue, 17 Feb 2026 03:46:34 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 01 Sep 2026 17:01:07 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.9.1</generator>
+	<generator>https://wordpress.org/?v=7.1</generator>
 	<item>
-		<title>Akron Music Scene</title>
-		<link>https://elihenley.com/2026/02/17/akron-music-scene/</link>
-					<comments>https://elihenley.com/2026/02/17/akron-music-scene/#respond</comments>
+		<title>OVOS Mar 15 2026 &#8211; LP</title>
+		<link>https://elihenley.com/2026/09/01/ovos-mar-15-2026-lp/</link>
 		
 		<dc:creator><![CDATA[elihenley]]></dc:creator>
-		<pubDate>Tue, 17 Feb 2026 03:41:44 +0000</pubDate>
-				<category><![CDATA[2026]]></category>
-		<category><![CDATA[Sculptures]]></category>
-		<guid isPermaLink="false">https://elihenley.com/?p=297</guid>
+		<pubDate>Tue, 01 Sep 2026 17:00:30 +0000</pubDate>
+				<category><![CDATA[OVOS]]></category>
+		<guid isPermaLink="false">https://elihenley.com/?p=586</guid>
 
-					<description><![CDATA[Steel, Wood, String, Light Bulbs, Wire &#8211; 2026 A reminder of the Akron, Ohio music scene (the &#8220;Akron Sound&#8221;) of 1976 &#8211; 1983. USB powered for convenience.]]></description>
+					<description><![CDATA[Aired March 15, 2026 Show type: Live from KUNM with artist Performance Notes: Albuquerque band Wilgira performs live for hour 2 of the show Wilgira: Bandcamp Jeff &#8211; Bass, Vocals (lead) Michael &#8211; Drums, Keyboard, Bass Rudi &#8211; Synth guitar, Drums Keif &#8211; Guitar Setlist]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="582" src="https://elihenley.com/wp-content/uploads/2026/02/P1003637-4-Large-1024x582.jpeg" alt="" class="wp-image-302" srcset="https://elihenley.com/wp-content/uploads/2026/02/P1003637-4-Large-1024x582.jpeg 1024w, https://elihenley.com/wp-content/uploads/2026/02/P1003637-4-Large-300x171.jpeg 300w, https://elihenley.com/wp-content/uploads/2026/02/P1003637-4-Large-768x437.jpeg 768w, https://elihenley.com/wp-content/uploads/2026/02/P1003637-4-Large.jpeg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<p class="wp-block-paragraph">Aired March 15, 2026</p>
 
 
 
-<p><strong>Steel, Wood, String, Light Bulbs, Wire &#8211; 2026</strong></p>
+<figure class="wp-block-audio"><audio controls src="https://storage.googleapis.com/ovos_archive/2026-03-15_OVOS_AIR.mp3"></audio></figure>
+
+
+
+<p class="wp-block-paragraph">Show type: Live from KUNM with artist Performance</p>
+
+
+
+<p class="wp-block-paragraph">Notes: Albuquerque band Wilgira performs live for hour 2 of the show</p>
+
+
+
+<p class="wp-block-paragraph">Wilgira:</p>
+
+
+
+<p class="wp-block-paragraph"><a href="https://wilgira.bandcamp.com/album/live-on-kunm-03-15-2026">Bandcamp</a></p>
+
+
+
+<p class="wp-block-paragraph"><strong>Jeff &#8211; </strong>Bass, Vocals (lead)</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Michael &#8211; </strong>Drums, Keyboard, Bass</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Rudi &#8211; </strong>Synth guitar, Drums</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Keif &#8211; </strong>Guitar</p>
+
+
+
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p class="wp-block-paragraph"><strong>Setlist</strong></p>
 
 
 
@@ -44,37 +82,108 @@
 
 
 
-<p>A reminder of the Akron, Ohio music scene (the &#8220;Akron Sound&#8221;) of 1976 &#8211; 1983. USB powered for convenience.</p>
+<table id="tablepress-38" class="tablepress tablepress-id-38">
+<thead>
+<tr class="row-1">
+	<th class="column-1">title</th><th class="column-2">artist</th><th class="column-3">album</th>
+</tr>
+</thead>
+<tbody class="row-striping row-hover">
+<tr class="row-2">
+	<td class="column-1">Pieriemozhiets</td><td class="column-2">Foa-Khoka</td><td class="column-3">Nie-vidomist’</td>
+</tr>
+<tr class="row-3">
+	<td class="column-1">Latawce i Lody</td><td class="column-2">Dom Wczasowy Jolanta</td><td class="column-3">Dom Wczasowy Jolanta</td>
+</tr>
+<tr class="row-4">
+	<td class="column-1">School</td><td class="column-2">DJWWWW</td><td class="column-3">Arigato</td>
+</tr>
+<tr class="row-5">
+	<td class="column-1">So Smooth</td><td class="column-2">Cream Juice</td><td class="column-3">Man Feelings</td>
+</tr>
+<tr class="row-6">
+	<td class="column-1">The Forge</td><td class="column-2">Samla Mammas Manna</td><td class="column-3">Familjesprickor<br />
+<br />
+Familia Spree-kor</td>
+</tr>
+<tr class="row-7">
+	<td class="column-1">Algo Secreto y Venenoso</td><td class="column-2">Mecanica Clasica &amp; Hari Sima</td><td class="column-3">Coleccion Exigua, Vol.3</td>
+</tr>
+<tr class="row-8">
+	<td class="column-1">The Swedes</td><td class="column-2">Mats/Morgan</td><td class="column-3">Schack Tati</td>
+</tr>
+<tr class="row-9">
+	<td class="column-1">Side A</td><td class="column-2">Bermuda Link</td><td class="column-3">Exit</td>
+</tr>
+<tr class="row-10">
+	<td class="column-1">Fume futur<br />
+<br />
+foom foo-teur</td><td class="column-2">Orgue Agnes<br />
+<br />
+Org ag-nyess</td><td class="column-3">A Une Gorge<br />
+<br />
+Ah une gorge </td>
+</tr>
+<tr class="row-11">
+	<td class="column-1">Snow Arp Under the Viole(n)t Ocean</td><td class="column-2">Shmu</td><td class="column-3">The Universe Is Inside My Body</td>
+</tr>
+<tr class="row-12">
+	<td class="column-1">L&#8217;appel Du Vide</td><td class="column-2">Tarkosia</td><td class="column-3">Always Be Coming</td>
+</tr>
+<tr class="row-13">
+	<td class="column-1">The Path</td><td class="column-2">Total Blue</td><td class="column-3">Total Blue</td>
+</tr>
+<tr class="row-14">
+	<td class="column-1">Wilgira Live from KUNM&#8217;s Studio A</td><td class="column-2"></td><td class="column-3"></td>
+</tr>
+<tr class="row-15">
+	<td class="column-1">Niestrashnyi Mu<br />
+<br />
+Neh-strash-neeh Moo</td><td class="column-2">Zvuki Mu</td><td class="column-3">Transnadiozhnost&#8217;</td>
+</tr>
+<tr class="row-16">
+	<td class="column-1">Gene Pool</td><td class="column-2">Steve Roach &amp; Vir Unis</td><td class="column-3">Body Electric</td>
+</tr>
+</tbody>
+</table>
 
 
 
-<p></p>
+<p class="wp-block-paragraph"></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://elihenley.com/2026/02/17/akron-music-scene/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
-		
+		<enclosure url="https://storage.googleapis.com/ovos_archive/2026-03-15_OVOS_AIR.mp3" length="219627833" type="audio/mpeg" />
+
 			</item>
 		<item>
-		<title>House Binding</title>
-		<link>https://elihenley.com/2026/02/11/house-binding/</link>
-					<comments>https://elihenley.com/2026/02/11/house-binding/#respond</comments>
+		<title>OVOS Feb 15 2026 &#8211; L</title>
+		<link>https://elihenley.com/2026/09/01/ovos-feb-15-2026-l/</link>
 		
 		<dc:creator><![CDATA[elihenley]]></dc:creator>
-		<pubDate>Wed, 11 Feb 2026 23:15:52 +0000</pubDate>
-				<category><![CDATA[2024]]></category>
-		<category><![CDATA[Electrical devices]]></category>
-		<category><![CDATA[Sculptures]]></category>
-		<guid isPermaLink="false">https://elihenley.com/?p=262</guid>
+		<pubDate>Tue, 01 Sep 2026 16:50:06 +0000</pubDate>
+				<category><![CDATA[OVOS]]></category>
+		<guid isPermaLink="false">https://elihenley.com/?p=582</guid>
 
-					<description><![CDATA[Steel, speaker cloth, wood, transducer, Amplifier &#8211; 2024 odd resonances are emitted from the house binding. house binding spreads its sounds through any surface it is placed on. This makes The source unclear. House Binding&#8217;s emission]]></description>
+					<description><![CDATA[Aired February 15, 2026 Show type: Live Setlist]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="817" src="https://elihenley.com/wp-content/uploads/2026/02/P1003579-Large-1024x817.jpeg" alt="" class="wp-image-268" srcset="https://elihenley.com/wp-content/uploads/2026/02/P1003579-Large-1024x817.jpeg 1024w, https://elihenley.com/wp-content/uploads/2026/02/P1003579-Large-300x239.jpeg 300w, https://elihenley.com/wp-content/uploads/2026/02/P1003579-Large-768x613.jpeg 768w, https://elihenley.com/wp-content/uploads/2026/02/P1003579-Large.jpeg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<p class="wp-block-paragraph">Aired February 15, 2026</p>
 
 
 
-<p><strong>Steel, speaker cloth, wood, transducer, Amplifier &#8211; 2024</strong></p>
+<figure class="wp-block-audio"><audio controls src="https://storage.googleapis.com/ovos_archive/2026-02-15_OVOS_AIR.mp3"></audio></figure>
+
+
+
+<p class="wp-block-paragraph">Show type: Live</p>
+
+
+
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p class="wp-block-paragraph"><strong>Setlist</strong></p>
 
 
 
@@ -82,57 +191,122 @@
 
 
 
-<p>odd resonances are emitted from the house binding. house binding spreads its sounds through any surface it is placed on. This makes The source unclear.</p>
+<table id="tablepress-37" class="tablepress tablepress-id-37">
+<thead>
+<tr class="row-1">
+	<th class="column-1">title</th><th class="column-2">artist</th><th class="column-3">album</th>
+</tr>
+</thead>
+<tbody class="row-striping row-hover">
+<tr class="row-2">
+	<td class="column-1">The Song of Investment Capital Oerseas</td><td class="column-2">Art Bears</td><td class="column-3">The World As It Is Today</td>
+</tr>
+<tr class="row-3">
+	<td class="column-1">Plastic Lassie</td><td class="column-2">Macula Dog</td><td class="column-3">Natural Dog</td>
+</tr>
+<tr class="row-4">
+	<td class="column-1">Rocket Number Nine</td><td class="column-2">Sun Ra</td><td class="column-3">Space Is the Place</td>
+</tr>
+<tr class="row-5">
+	<td class="column-1">Corrupted Structures</td><td class="column-2">AND</td><td class="column-3">Social Decay</td>
+</tr>
+<tr class="row-6">
+	<td class="column-1">Bkmdma</td><td class="column-2">Blithe Field</td><td class="column-3">Face Always Toward the Sun</td>
+</tr>
+<tr class="row-7">
+	<td class="column-1">Camp O&#8217; Physique</td><td class="column-2">Cheer-Accident</td><td class="column-3">Introducing Lemon</td>
+</tr>
+<tr class="row-8">
+	<td class="column-1">Landwerk III</td><td class="column-2">Nathan Salsburg</td><td class="column-3">Landwerk</td>
+</tr>
+<tr class="row-9">
+	<td class="column-1">540 Supercell</td><td class="column-2">Daniel Bachman</td><td class="column-3">Almanac Behind</td>
+</tr>
+<tr class="row-10">
+	<td class="column-1">Sapaly</td><td class="column-2">Aby Ngana Diop</td><td class="column-3">Liital</td>
+</tr>
+<tr class="row-11">
+	<td class="column-1">Cortejo dos Reis Negros (Version 2)</td><td class="column-2">Grupo Um</td><td class="column-3">Nineteen Seventy Seven</td>
+</tr>
+<tr class="row-12">
+	<td class="column-1">Runway N</td><td class="column-2">Death Grips</td><td class="column-3">Fashion Week</td>
+</tr>
+<tr class="row-13">
+	<td class="column-1">Teen Texas Concert</td><td class="column-2">Five Starcle Men</td><td class="column-3">Gomba Reject Ward Japan</td>
+</tr>
+<tr class="row-14">
+	<td class="column-1">Mistimed Space Hopper Incident</td><td class="column-2">Von Heuser</td><td class="column-3">Monothought</td>
+</tr>
+<tr class="row-15">
+	<td class="column-1">Sector Wars</td><td class="column-2">Denis DeFrange</td><td class="column-3">Punk 45: Burn Rubber City, Burn! Akron, Ohio: Punk and the Decline of the Mid-West 1975-80</td>
+</tr>
+<tr class="row-16">
+	<td class="column-1">Mechanical Man</td><td class="column-2">Devo</td><td class="column-3">Hardcore Devo, Vol. 1 (Vol. 1 1974-1977)</td>
+</tr>
+<tr class="row-17">
+	<td class="column-1">The Waltz That Carried Us Away and Then a Mosquito Came and Ate Up My Sweetheart</td><td class="column-2">John Fahey</td><td class="column-3">America (Remastered)</td>
+</tr>
+<tr class="row-18">
+	<td class="column-1">184000</td><td class="column-2">TeleLuna6</td><td class="column-3">1 8 4 0 0 0 (Long Version)</td>
+</tr>
+<tr class="row-19">
+	<td class="column-1">Duncan Idaho</td><td class="column-2">Richard Pinhas</td><td class="column-3">Chronolyse</td>
+</tr>
+<tr class="row-20">
+	<td class="column-1">Smokestack</td><td class="column-2">Macula Dog</td><td class="column-3">Why Do You Look Like Your Dog?</td>
+</tr>
+<tr class="row-21">
+	<td class="column-1">Noisedemo</td><td class="column-2">Pulselovers</td><td class="column-3">Glass</td>
+</tr>
+<tr class="row-22">
+	<td class="column-1">Chrysanthemums</td><td class="column-2">J. Surak</td><td class="column-3">Torn</td>
+</tr>
+<tr class="row-23">
+	<td class="column-1">Networking</td><td class="column-2">The Knife</td><td class="column-3">Shaking the Habitual</td>
+</tr>
+<tr class="row-24">
+	<td class="column-1">Space Golf</td><td class="column-2">Tipsy</td><td class="column-3">Trip Tease</td>
+</tr>
+</tbody>
+</table>
 
 
 
-<p></p>
-
-
-
-<div style="height:16px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<p><strong>House Binding&#8217;s emission</strong></p>
-
-
-
-<figure class="wp-block-audio"><audio controls src="https://elihenley.com/wp-content/uploads/2026/02/ZOOM0004_LR-1.mp3"></audio></figure>
-
-
-
-<div style="height:34px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="814" src="https://elihenley.com/wp-content/uploads/2026/02/P1003582-Large-1024x814.jpeg" alt="" class="wp-image-266" srcset="https://elihenley.com/wp-content/uploads/2026/02/P1003582-Large-1024x814.jpeg 1024w, https://elihenley.com/wp-content/uploads/2026/02/P1003582-Large-300x238.jpeg 300w, https://elihenley.com/wp-content/uploads/2026/02/P1003582-Large-768x610.jpeg 768w, https://elihenley.com/wp-content/uploads/2026/02/P1003582-Large.jpeg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<p class="wp-block-paragraph"></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://elihenley.com/2026/02/11/house-binding/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
-		<enclosure url="https://elihenley.com/wp-content/uploads/2026/02/ZOOM0004_LR-1.mp3" length="2772013" type="audio/mpeg" />
+		<enclosure url="https://storage.googleapis.com/ovos_archive/2026-02-15_OVOS_AIR.mp3" length="206166390" type="audio/mpeg" />
 
 			</item>
 		<item>
-		<title>Kitchen Appliance</title>
-		<link>https://elihenley.com/2026/02/11/kitchen-appliance/</link>
-					<comments>https://elihenley.com/2026/02/11/kitchen-appliance/#respond</comments>
+		<title>OVOS Jan 18 2026 &#8211; L</title>
+		<link>https://elihenley.com/2026/09/01/ovos-jan-18-2026-l/</link>
 		
 		<dc:creator><![CDATA[elihenley]]></dc:creator>
-		<pubDate>Wed, 11 Feb 2026 22:43:38 +0000</pubDate>
-				<category><![CDATA[2024]]></category>
-		<category><![CDATA[Sculptures]]></category>
-		<guid isPermaLink="false">https://elihenley.com/?p=242</guid>
+		<pubDate>Tue, 01 Sep 2026 16:47:26 +0000</pubDate>
+				<category><![CDATA[OVOS]]></category>
+		<guid isPermaLink="false">https://elihenley.com/?p=578</guid>
 
-					<description><![CDATA[Carved alabaster &#8211; 2024 A novel shape for dipping bread in a good quality olive oil. Watch the oil flow Then enjoy bread from the oil pool&#8230;]]></description>
+					<description><![CDATA[Aired January 18, 2026 Show type: Live Setlist]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="791" src="https://elihenley.com/wp-content/uploads/2026/02/P1003591-3-Large-1024x791.jpeg" alt="" class="wp-image-245" srcset="https://elihenley.com/wp-content/uploads/2026/02/P1003591-3-Large-1024x791.jpeg 1024w, https://elihenley.com/wp-content/uploads/2026/02/P1003591-3-Large-300x232.jpeg 300w, https://elihenley.com/wp-content/uploads/2026/02/P1003591-3-Large-768x593.jpeg 768w, https://elihenley.com/wp-content/uploads/2026/02/P1003591-3-Large.jpeg 1280w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+<p class="wp-block-paragraph">Aired January 18, 2026</p>
 
 
 
-<p><strong>Carved alabaster &#8211; 2024</strong></p>
+<figure class="wp-block-audio"><audio controls src="https://storage.googleapis.com/ovos_archive/2026-01-18_OVOS_AIR.mp3"></audio></figure>
+
+
+
+<p class="wp-block-paragraph">Show type: Live</p>
+
+
+
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p class="wp-block-paragraph"><strong>Setlist</strong></p>
 
 
 
@@ -140,62 +314,115 @@
 
 
 
-<p>A novel shape for dipping bread in a good quality olive oil.</p>
+<table id="tablepress-36" class="tablepress tablepress-id-36">
+<thead>
+<tr class="row-1">
+	<th class="column-1">title</th><th class="column-2">artist</th><th class="column-3">album</th>
+</tr>
+</thead>
+<tbody class="row-striping row-hover">
+<tr class="row-2">
+	<td class="column-1">Eye in the Sky</td><td class="column-2">Telectu</td><td class="column-3">Ctu Telectu</td>
+</tr>
+<tr class="row-3">
+	<td class="column-1">La Danse Des Meduses</td><td class="column-2">Dominique Guiot</td><td class="column-3">L&#8217;Univers De La Mer</td>
+</tr>
+<tr class="row-4">
+	<td class="column-1">Kosmos, Teil 1</td><td class="column-2">Lxmp</td><td class="column-3">Zony W Pracy</td>
+</tr>
+<tr class="row-5">
+	<td class="column-1">Procrasti Nation</td><td class="column-2">Pierre Vervloesem<br />
+<br />
+<br />
+Fair-floo-sem</td><td class="column-3">1983</td>
+</tr>
+<tr class="row-6">
+	<td class="column-1">19/36</td><td class="column-2">Verto</td><td class="column-3">Reel 19 36</td>
+</tr>
+<tr class="row-7">
+	<td class="column-1">Images</td><td class="column-2">Henri Roger</td><td class="column-3">Images</td>
+</tr>
+<tr class="row-8">
+	<td class="column-1">Fantomfingers</td><td class="column-2">Dick Hyman</td><td class="column-3">Fantomfingers</td>
+</tr>
+<tr class="row-9">
+	<td class="column-1">Ressurector</td><td class="column-2">Bernard Szajner</td><td class="column-3">Some Deaths Take Forever<br />
+<br />
+<br />
+</td>
+</tr>
+<tr class="row-10">
+	<td class="column-1">Dentsu2060</td><td class="column-2">Tasho Ishi</td><td class="column-3">Dentsu2060</td>
+</tr>
+<tr class="row-11">
+	<td class="column-1">Welcome to Death Row</td><td class="column-2">Bernard Szajner</td><td class="column-3">Some Deaths Take Forever (Remastered)<br />
+<br />
+“album about the feelings of two prisoners waiting on death row.”</td>
+</tr>
+<tr class="row-12">
+	<td class="column-1">Synthetic Seasons &#8211; Part 1</td><td class="column-2">Lard Free</td><td class="column-3">Lard Free</td>
+</tr>
+<tr class="row-13">
+	<td class="column-1">Synthetic Seasons &#8211; Part 2</td><td class="column-2">Lard Free</td><td class="column-3">Lard Free</td>
+</tr>
+<tr class="row-14">
+	<td class="column-1">Court of Consequence</td><td class="column-2">Imaginary Softwoods</td><td class="column-3">Imaginary Softwoods (15th Anniv. Edition)</td>
+</tr>
+<tr class="row-15">
+	<td class="column-1">Court of Consequence (II)</td><td class="column-2">Imaginary Softwoods</td><td class="column-3">Imaginary Softwoods</td>
+</tr>
+<tr class="row-16">
+	<td class="column-1">Hathor&#8217;s Trance</td><td class="column-2">Jonas Reinhardt</td><td class="column-3">The Encyclopedia of Civilizations Vol.1: Egypt</td>
+</tr>
+<tr class="row-17">
+	<td class="column-1">Fossil Culture (2)</td><td class="column-2">Peter Frohmader &amp; Richard Pinhas</td><td class="column-3">Fossil Culture</td>
+</tr>
+<tr class="row-18">
+	<td class="column-1">Man o&#8217; war feat. Rainsdeaf</td><td class="column-2">Computer doctor</td><td class="column-3">Herb</td>
+</tr>
+<tr class="row-19">
+	<td class="column-1">Retirement</td><td class="column-2">Computer doctor</td><td class="column-3">Herb</td>
+</tr>
+</tbody>
+</table>
 
 
 
-<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<p><strong>Watch the oil flow</strong></p>
-
-
-
-<figure class="wp-block-boldblocks-youtube-block"><div id="yb-video-ycW55f4BiAY" class="yb-player" data-video-id="ycW55f4BiAY" data-title="Play" style="background-image:url(https://img.youtube.com/vi/ycW55f4BiAY/maxresdefault.jpg)" data-params="{&quot;rel&quot;:0}"><button type="button" class="yb-btn-play"><span class="visually-hidden">Play</span></button></div></figure>
-
-
-
-<div style="height:38px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<p><strong>Then enjoy bread from the oil pool&#8230;</strong></p>
-
-
-
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="577" src="https://elihenley.com/wp-content/uploads/2026/02/P1003614-Large-1024x577.jpeg" alt="" class="wp-image-246" srcset="https://elihenley.com/wp-content/uploads/2026/02/P1003614-Large-1024x577.jpeg 1024w, https://elihenley.com/wp-content/uploads/2026/02/P1003614-Large-300x169.jpeg 300w, https://elihenley.com/wp-content/uploads/2026/02/P1003614-Large-768x433.jpeg 768w, https://elihenley.com/wp-content/uploads/2026/02/P1003614-Large.jpeg 1280w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<p></p>
+<p class="wp-block-paragraph"></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://elihenley.com/2026/02/11/kitchen-appliance/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
-		
+		<enclosure url="https://storage.googleapis.com/ovos_archive/2026-01-18_OVOS_AIR.mp3" length="287753437" type="audio/mpeg" />
+
 			</item>
 		<item>
-		<title>Conversation / Chattering</title>
-		<link>https://elihenley.com/2024/11/07/conversation-chattering-device/</link>
-					<comments>https://elihenley.com/2024/11/07/conversation-chattering-device/#respond</comments>
+		<title>OVOS Dec 21 2025 &#8211; L</title>
+		<link>https://elihenley.com/2026/09/01/ovos-dec-21-2025-l/</link>
 		
 		<dc:creator><![CDATA[elihenley]]></dc:creator>
-		<pubDate>Thu, 07 Nov 2024 19:49:29 +0000</pubDate>
-				<category><![CDATA[2024]]></category>
-		<category><![CDATA[Electrical devices]]></category>
-		<category><![CDATA[Sculptures]]></category>
-		<category><![CDATA[Sound]]></category>
-		<guid isPermaLink="false">https://elihenley.com/?p=223</guid>
+		<pubDate>Tue, 01 Sep 2026 16:44:29 +0000</pubDate>
+				<category><![CDATA[OVOS]]></category>
+		<guid isPermaLink="false">https://elihenley.com/?p=573</guid>
 
-					<description><![CDATA[Wood, speaker, microphone, steel wire, Copper wire, electronics, audio amplifier &#8211; 2024 This conversation is a feedback loop. The speaker converses with the microphone. The microphone is mounted to an articulating arm. Feedback occurs when they get close to each other. The speaker ejects the microphone when they make contact. Adjusting volume affects the intensity [&#8230;]]]></description>
+					<description><![CDATA[Aired December 21, 2025 Show type: Live Setlist]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><a href="https://elihenley.com/wp-content/uploads/2024/11/P1003511-Large.jpeg"><img loading="lazy" decoding="async" width="1024" height="577" src="https://elihenley.com/wp-content/uploads/2024/11/P1003511-Large-1024x577.jpeg" alt="" class="wp-image-227" srcset="https://elihenley.com/wp-content/uploads/2024/11/P1003511-Large-1024x577.jpeg 1024w, https://elihenley.com/wp-content/uploads/2024/11/P1003511-Large-300x169.jpeg 300w, https://elihenley.com/wp-content/uploads/2024/11/P1003511-Large-768x433.jpeg 768w, https://elihenley.com/wp-content/uploads/2024/11/P1003511-Large.jpeg 1280w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></a></figure>
+<p class="wp-block-paragraph">Aired December 21, 2025</p>
 
 
 
-<p><strong>Wood, speaker, microphone, steel wire, Copper wire, electronics, audio amplifier &#8211; 2024</strong></p>
+<figure class="wp-block-audio"><audio controls src="https://storage.googleapis.com/ovos_archive/2025-12-21_OVOS_AIR.mp3"></audio></figure>
+
+
+
+<p class="wp-block-paragraph">Show type: Live</p>
+
+
+
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p class="wp-block-paragraph"><strong>Setlist</strong></p>
 
 
 
@@ -203,64 +430,117 @@
 
 
 
-<p>This conversation is a feedback loop. </p>
+<table id="tablepress-35" class="tablepress tablepress-id-35">
+<thead>
+<tr class="row-1">
+	<th class="column-1">title</th><th class="column-2">artist</th><th class="column-3">album</th>
+</tr>
+</thead>
+<tbody class="row-striping row-hover">
+<tr class="row-2">
+	<td class="column-1">Jungle Alarm</td><td class="column-2">Oyvind Torvund, Bit 20 Ensemble &amp; Trond Madsen</td><td class="column-3">The Exotica Album (feat. Kjetil Moster &amp; JORGEN TRAEEN)</td>
+</tr>
+<tr class="row-3">
+	<td class="column-1">Zverokruh</td><td class="column-2">Jiri Stivin</td><td class="column-3">Zverokruh/ Zodiac</td>
+</tr>
+<tr class="row-4">
+	<td class="column-1">Spring Fridge</td><td class="column-2">General Magic &amp; Pita</td><td class="column-3">Fridge Trax Plus</td>
+</tr>
+<tr class="row-5">
+	<td class="column-1">Untitled 3</td><td class="column-2">Sturm</td><td class="column-3">Sturmgesten</td>
+</tr>
+<tr class="row-6">
+	<td class="column-1">FLOWERS AND BUTTERFLY</td><td class="column-2">Osamu Sato</td><td class="column-3">Objectless</td>
+</tr>
+<tr class="row-7">
+	<td class="column-1">Hurry &#8211; Dance</td><td class="column-2">Siegmar Fricke</td><td class="column-3">Electrohome Europe</td>
+</tr>
+<tr class="row-8">
+	<td class="column-1">Gnossienne I</td><td class="column-2">Patricia Escudero, <br />
+Erik Satie</td><td class="column-3">Satie Sonneries</td>
+</tr>
+<tr class="row-9">
+	<td class="column-1">Islets in Pink Polypropylene 1</td><td class="column-2">Anthony Manning</td><td class="column-3">Islets in Pink Polypropylene</td>
+</tr>
+<tr class="row-10">
+	<td class="column-1">Japonese Meregue</td><td class="column-2">Uske Orchestra</td><td class="column-3">Moli Herzog</td>
+</tr>
+<tr class="row-11">
+	<td class="column-1">The Palm</td><td class="column-2">Toki Meki Science</td><td class="column-3">New And Beautiful Music</td>
+</tr>
+<tr class="row-12">
+	<td class="column-1">The Beautiful Edible Flower</td><td class="column-2">Toki Meki Science</td><td class="column-3">New And Beautiful Music</td>
+</tr>
+<tr class="row-13">
+	<td class="column-1">Scan Lines Part 8<br />
+</td><td class="column-2">Michael Galasso &amp; John Van Rymenant</td><td class="column-3">Scan Lines</td>
+</tr>
+<tr class="row-14">
+	<td class="column-1">Wiggle And Giggle</td><td class="column-2">Hen<br />
+(Henderson Dunlap Jr.)</td><td class="column-3">Wiggle And Giggle</td>
+</tr>
+<tr class="row-15">
+	<td class="column-1">Pacific Motion</td><td class="column-2">Michel Redolfi</td><td class="column-3">Desert Tracks</td>
+</tr>
+<tr class="row-16">
+	<td class="column-1">Siren</td><td class="column-2">Madalyn Merkey</td><td class="column-3">Scent</td>
+</tr>
+<tr class="row-17">
+	<td class="column-1">Erosphere</td><td class="column-2">Francois Bayle</td><td class="column-3">cinquante Ans D&#8217;Acousmatique</td>
+</tr>
+<tr class="row-18">
+	<td class="column-1">Anche Le Pietre Cantano</td><td class="column-2">Paolo Modugno</td><td class="column-3">Brise D’Automne</td>
+</tr>
+<tr class="row-19">
+	<td class="column-1">Sine Sole Sileo</td><td class="column-2">Paolo Modugno</td><td class="column-3">Brise D&#8217;Automne</td>
+</tr>
+<tr class="row-20">
+	<td class="column-1">Untitled 01</td><td class="column-2">Rasta Robert</td><td class="column-3">60 x &#8217;90</td>
+</tr>
+</tbody>
+</table>
 
 
 
-<div style="height:18px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<p>The speaker converses with the microphone. The microphone is mounted to an articulating arm. Feedback occurs when they get close to each other. The speaker ejects the microphone when they make contact. Adjusting volume affects the intensity and speed of the chatter.</p>
-
-
-
-<div style="height:38px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<p><strong>Demonstration video</strong></p>
-
-
-
-<figure class="wp-block-boldblocks-youtube-block"><div id="yb-video-XKSZKexD9iQ" class="yb-player" data-video-id="XKSZKexD9iQ" data-title="Play" style="background-image:url(https://img.youtube.com/vi/XKSZKexD9iQ/maxresdefault.jpg)" data-params="{&quot;rel&quot;:0}"><button type="button" class="yb-btn-play"><span class="visually-hidden">Play</span></button></div></figure>
-
-
-
-<div style="height:38px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<figure class="wp-block-image size-large"><a href="https://elihenley.com/wp-content/uploads/2024/11/P1003512-Large.jpeg"><img loading="lazy" decoding="async" width="1024" height="577" src="https://elihenley.com/wp-content/uploads/2024/11/P1003512-Large-1024x577.jpeg" alt="" class="wp-image-231" srcset="https://elihenley.com/wp-content/uploads/2024/11/P1003512-Large-1024x577.jpeg 1024w, https://elihenley.com/wp-content/uploads/2024/11/P1003512-Large-300x169.jpeg 300w, https://elihenley.com/wp-content/uploads/2024/11/P1003512-Large-768x433.jpeg 768w, https://elihenley.com/wp-content/uploads/2024/11/P1003512-Large.jpeg 1280w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></a></figure>
+<p class="wp-block-paragraph"></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://elihenley.com/2024/11/07/conversation-chattering-device/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
-		
+		<enclosure url="https://storage.googleapis.com/ovos_archive/2025-12-21_OVOS_AIR.mp3" length="287761789" type="audio/mpeg" />
+
 			</item>
 		<item>
-		<title>It Begins and Ends with Brown Water</title>
-		<link>https://elihenley.com/2024/07/18/it-begins-and-ends-with-brown-water/</link>
-					<comments>https://elihenley.com/2024/07/18/it-begins-and-ends-with-brown-water/#respond</comments>
+		<title>OVOS Nov 16 2025 &#8211; E</title>
+		<link>https://elihenley.com/2026/09/01/ovos-nov-16-2025-e/</link>
 		
 		<dc:creator><![CDATA[elihenley]]></dc:creator>
-		<pubDate>Thu, 18 Jul 2024 19:02:05 +0000</pubDate>
-				<category><![CDATA[2024]]></category>
-		<category><![CDATA[Sound]]></category>
-		<category><![CDATA[Uncategorized]]></category>
-		<category><![CDATA[Videos]]></category>
-		<guid isPermaLink="false">https://elihenley.com/?p=181</guid>
+		<pubDate>Tue, 01 Sep 2026 16:39:33 +0000</pubDate>
+				<category><![CDATA[OVOS]]></category>
+		<guid isPermaLink="false">https://elihenley.com/?p=565</guid>
 
-					<description><![CDATA[Video &#8211; 04:09 &#8211; 2024 A short film regarding the worst smell imaginable. inspired by a moldy coffee maker and a variety of found kitchen objects. Visuals created with standard definition video equipment and a magnifying glass.]]></description>
+					<description><![CDATA[Aired November 16, 2025 Show type: Encore Notes: Rebroadcast of the June 18, 2023 show Setlist]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="It Begins and Ends with Brown Water" width="500" height="375" src="https://www.youtube.com/embed/O45DmmI90aY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div></figure>
+<p class="wp-block-paragraph">Aired November 16, 2025</p>
 
 
 
-<h2 class="wp-block-heading">Video &#8211; 04:09 &#8211; 2024</h2>
+<figure class="wp-block-audio"><audio controls src="https://storage.googleapis.com/ovos_archive/2023-06-18_OVOS_AIR.mp3"></audio></figure>
+
+
+
+<p class="wp-block-paragraph">Show type: Encore</p>
+
+
+
+<p class="wp-block-paragraph">Notes: Rebroadcast of the June 18, 2023 show</p>
+
+
+
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p class="wp-block-paragraph"><strong>Setlist</strong></p>
 
 
 
@@ -268,43 +548,100 @@
 
 
 
-<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
-<p>A short film regarding the worst smell imaginable.</p>
-</blockquote>
-
-
-
-<div style="height:22px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<p>inspired by a moldy coffee maker and a variety of found kitchen objects. Visuals created with standard definition video equipment and a magnifying glass.</p>
+<table id="tablepress-7" class="tablepress tablepress-id-7">
+<thead>
+<tr class="row-1">
+	<th class="column-1">title</th><th class="column-2">artist</th><th class="column-3">album</th>
+</tr>
+</thead>
+<tbody class="row-striping row-hover">
+<tr class="row-2">
+	<td class="column-1">You Yesyesyes</td><td class="column-2">The Residents</td><td class="column-3">Fingerprince</td>
+</tr>
+<tr class="row-3">
+	<td class="column-1">The Captain of the Football Team (Donnie)</td><td class="column-2">Robert Ashley</td><td class="column-3">Perfect Lives (Private Parts): &#8216;Music Word Fire and I Would Do It Again (Coo Coo)&#8217;</td>
+</tr>
+<tr class="row-4">
+	<td class="column-1">X</td><td class="column-2">Batsu</td><td class="column-3">Ego 02: Critical Species &#8211; Individual Music Ozaka 1985</td>
+</tr>
+<tr class="row-5">
+	<td class="column-1">Walking Lady</td><td class="column-2">Dinosaurs with Horns</td><td class="column-3">Dinosaurs with Horns</td>
+</tr>
+<tr class="row-6">
+	<td class="column-1">The New Remorse</td><td class="column-2">Bombay Ducks</td><td class="column-3">Dance Music</td>
+</tr>
+<tr class="row-7">
+	<td class="column-1">Poko (1986)</td><td class="column-2">Krzysztof Knittel</td><td class="column-3">Would It Sound Just As Bad If You Played It Backwards, vol. 2</td>
+</tr>
+<tr class="row-8">
+	<td class="column-1">BULBO DI VASO DI ALPAN</td><td class="column-2">Etrusca 3D</td><td class="column-3">Trickster Blade</td>
+</tr>
+<tr class="row-9">
+	<td class="column-1">Thatness And Thereness</td><td class="column-2">Ryuichi Sakamoto</td><td class="column-3">B-2 Unit</td>
+</tr>
+<tr class="row-10">
+	<td class="column-1">Der Sturzende Mensch</td><td class="column-2">Heiner Goebbels und Alfred Harth</td><td class="column-3">Der Durchdrungene Mensch / Indianer Far Morgen</td>
+</tr>
+<tr class="row-11">
+	<td class="column-1">Foreplay for a Praying Mantis</td><td class="column-2">Ut Gret</td><td class="column-3">Recent Fossils</td>
+</tr>
+<tr class="row-12">
+	<td class="column-1">Walter Westinghouse</td><td class="column-2">The Residents</td><td class="column-3">Fingerprince</td>
+</tr>
+<tr class="row-13">
+	<td class="column-1">Feuer</td><td class="column-2">Monoton</td><td class="column-3">Monotonprodukt 07</td>
+</tr>
+<tr class="row-14">
+	<td class="column-1">Aquilone grattacielo A</td><td class="column-2">Francesco Cavaliere</td><td class="column-3">Aquilone Grattacielo</td>
+</tr>
+<tr class="row-15">
+	<td class="column-1">Aquilone grattacielo B</td><td class="column-2">Francesco Cavaliere</td><td class="column-3">Aquilone Grattacielo</td>
+</tr>
+<tr class="row-16">
+	<td class="column-1">Aquilone grattacielo A</td><td class="column-2">Francesco Cavaliere</td><td class="column-3">Aquilone Grattacielo</td>
+</tr>
+<tr class="row-17">
+	<td class="column-1">Expand the Heart</td><td class="column-2">Alog</td><td class="column-3">Red Shift Swing</td>
+</tr>
+<tr class="row-18">
+	<td class="column-1">Too Much</td><td class="column-2">Michele Mercure</td><td class="column-3">Eye Chant</td>
+</tr>
+</tbody>
+</table>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://elihenley.com/2024/07/18/it-begins-and-ends-with-brown-water/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
-		
+		<enclosure url="https://storage.googleapis.com/ovos_archive/2023-06-18_OVOS_AIR.mp3" length="287753437" type="audio/mpeg" />
+
 			</item>
 		<item>
-		<title>TEST 087 AUDIO Score</title>
-		<link>https://elihenley.com/2024/07/18/test-087-sound-score/</link>
-					<comments>https://elihenley.com/2024/07/18/test-087-sound-score/#respond</comments>
+		<title>OVOS Oct 19 2025 &#8211; L</title>
+		<link>https://elihenley.com/2026/09/01/ovos-oct-19-2025-l/</link>
 		
 		<dc:creator><![CDATA[elihenley]]></dc:creator>
-		<pubDate>Thu, 18 Jul 2024 18:20:28 +0000</pubDate>
-				<category><![CDATA[2024]]></category>
-		<category><![CDATA[Audio]]></category>
-		<category><![CDATA[Commissions]]></category>
-		<guid isPermaLink="false">https://elihenley.com/?p=170</guid>
+		<pubDate>Tue, 01 Sep 2026 16:33:59 +0000</pubDate>
+				<category><![CDATA[OVOS]]></category>
+		<guid isPermaLink="false">https://elihenley.com/?p=560</guid>
 
-					<description><![CDATA[Commissioned audio score for live performance &#8211; Icebox Project Space, Phil. PA &#8211; 03:51 &#8211; 2024 Commissioned audio piece to accompany A live performance for two dancers. Score was composed using sounds from household appliances and electrical devices. Performers reacted to the score with rigid and austere movements. Work directed by Katarina Poljak. Photo credit [&#8230;]]]></description>
+					<description><![CDATA[Aired October 19, 2025 Show type: LIVE Setlist]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="683" src="https://elihenley.com/wp-content/uploads/2024/07/test087-1-1024x683.jpg" alt="" class="wp-image-171" srcset="https://elihenley.com/wp-content/uploads/2024/07/test087-1-1024x683.jpg 1024w, https://elihenley.com/wp-content/uploads/2024/07/test087-1-300x200.jpg 300w, https://elihenley.com/wp-content/uploads/2024/07/test087-1-768x512.jpg 768w, https://elihenley.com/wp-content/uploads/2024/07/test087-1.jpg 1080w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+<p class="wp-block-paragraph">Aired October 19, 2025</p>
 
 
 
-<h2 class="wp-block-heading">Commissioned audio score for live performance &#8211; Icebox Project Space, Phil. PA &#8211; 03:51 &#8211; 2024</h2>
+<figure class="wp-block-audio"><audio controls src="https://storage.googleapis.com/ovos_archive/2025-10-19_OVOS_AIR.mp3"></audio></figure>
+
+
+
+<p class="wp-block-paragraph">Show type: LIVE</p>
+
+
+
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p class="wp-block-paragraph"><strong>Setlist</strong></p>
 
 
 
@@ -312,47 +649,87 @@
 
 
 
-<p>Commissioned audio piece to accompany A live performance for two dancers. Score was composed using sounds from household appliances and electrical devices. Performers reacted to the score with rigid and austere movements. Work directed by <a href="https://www.rageboxx.net/" target="_blank" rel="noreferrer noopener">Katarina Poljak</a>.</p>
-
-
-
-<div style="height:22px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
-<p><a href="https://www.instagram.com/rageboxx/p/C8LIHSDpz5z/?img_index=1" target="_blank" rel="noreferrer noopener">Photo credit &#8211; Katarina Poljak / rageboxx</a></p>
-</blockquote>
-
-
-
-<p></p>
+<table id="tablepress-34" class="tablepress tablepress-id-34">
+<thead>
+<tr class="row-1">
+	<th class="column-1">title</th><th class="column-2">artist</th><th class="column-3">album</th>
+</tr>
+</thead>
+<tbody class="row-striping row-hover">
+<tr class="row-2">
+	<td class="column-1">Erdtone</td><td class="column-2">niklas wandt</td><td class="column-3">Erdtone &#8211; EP</td>
+</tr>
+<tr class="row-3">
+	<td class="column-1">Animiste</td><td class="column-2">Gilles Rieder</td><td class="column-3">Manoeuvres d’Automne<br />
+Man-nerve-uh</td>
+</tr>
+<tr class="row-4">
+	<td class="column-1">El Palacio del Emir</td><td class="column-2">Luis Delgado</td><td class="column-3">Vathek</td>
+</tr>
+<tr class="row-5">
+	<td class="column-1">Map of Dusk</td><td class="column-2">Jon Hassell</td><td class="column-3">Myths 3. La Nouvelle Sérénité</td>
+</tr>
+<tr class="row-6">
+	<td class="column-1">Raga Kalavati</td><td class="column-2">Charanjit Singh</td><td class="column-3">Ten Ragas to a Disco Beat</td>
+</tr>
+<tr class="row-7">
+	<td class="column-1">Visitations I</td><td class="column-2">Jon Gibson</td><td class="column-3">Gibson: Visitations I &amp; II + Thirties</td>
+</tr>
+<tr class="row-8">
+	<td class="column-1">Reflections From The Grave</td><td class="column-2">Abdur Razzaq &amp; Rafiyq</td><td class="column-3">The Night of Power (Laylatu&#8217;l Qadri)</td>
+</tr>
+<tr class="row-9">
+	<td class="column-1">Mushroom Omelette (And The Now Prevailing Cosmic Anxiety)</td><td class="column-2">Jonny Nash &amp; Lindsay Todd</td><td class="column-3">Fauna Mapping</td>
+</tr>
+<tr class="row-10">
+	<td class="column-1">Teifi</td><td class="column-2">Owain K</td><td class="column-3">Innate 003 &#8211; EP<br />
+(With others) </td>
+</tr>
+<tr class="row-11">
+	<td class="column-1">Side F</td><td class="column-2">LF58</td><td class="column-3">Live at Brancaleone</td>
+</tr>
+<tr class="row-12">
+	<td class="column-1">Incineration Of Thoughts</td><td class="column-2">Black Zone Magick Chant</td><td class="column-3">Voyage Sacrifice</td>
+</tr>
+<tr class="row-13">
+	<td class="column-1">Desfile De Las Tropas Del Emir</td><td class="column-2">Jabir</td><td class="column-3">Vuelo Por Las Alturas De Alhambra</td>
+</tr>
+</tbody>
+</table>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://elihenley.com/2024/07/18/test-087-sound-score/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
-		
+		<enclosure url="https://storage.googleapis.com/ovos_archive/2025-10-19_OVOS_AIR.mp3" length="287753437" type="audio/mpeg" />
+
 			</item>
 		<item>
-		<title>The Reifier</title>
-		<link>https://elihenley.com/2024/06/27/the-reifier/</link>
-					<comments>https://elihenley.com/2024/06/27/the-reifier/#respond</comments>
+		<title>OVOS Sep 21 2025 &#8211; L</title>
+		<link>https://elihenley.com/2026/09/01/ovos-sep-21-2025-l/</link>
 		
 		<dc:creator><![CDATA[elihenley]]></dc:creator>
-		<pubDate>Thu, 27 Jun 2024 20:39:36 +0000</pubDate>
-				<category><![CDATA[2024]]></category>
-		<category><![CDATA[Electrical devices]]></category>
-		<category><![CDATA[Sculptures]]></category>
-		<guid isPermaLink="false">https://elihenley.com/?p=142</guid>
+		<pubDate>Tue, 01 Sep 2026 16:31:11 +0000</pubDate>
+				<category><![CDATA[OVOS]]></category>
+		<guid isPermaLink="false">https://elihenley.com/?p=555</guid>
 
-					<description><![CDATA[Steel, circuit boards, lights, misc. electronics components, wire, solder, hardware &#8211; 2024 (The Reifier relies on our tendency to project utterly meaningful assumed truths onto (conveniently) structured, arbitrary information.) The Reifier is a scientific electrical device. It surmises and transcribes the inner emotions of whomever wears it into convenient and knowable words. As the wearer [&#8230;]]]></description>
+					<description><![CDATA[Aired September 21, 2025 Show type: LIVE Setlist]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><a href="https://elihenley.com/wp-content/uploads/2024/06/reifier-8-Large-1.jpeg"><img loading="lazy" decoding="async" width="799" height="1024" src="https://elihenley.com/wp-content/uploads/2024/06/reifier-8-Large-1-799x1024.jpeg" alt="" class="wp-image-151" srcset="https://elihenley.com/wp-content/uploads/2024/06/reifier-8-Large-1-799x1024.jpeg 799w, https://elihenley.com/wp-content/uploads/2024/06/reifier-8-Large-1-234x300.jpeg 234w, https://elihenley.com/wp-content/uploads/2024/06/reifier-8-Large-1-768x984.jpeg 768w, https://elihenley.com/wp-content/uploads/2024/06/reifier-8-Large-1.jpeg 999w" sizes="auto, (max-width: 799px) 100vw, 799px" /></a></figure>
+<p class="wp-block-paragraph">Aired September 21, 2025</p>
 
 
 
-<h2 class="wp-block-heading">Steel, circuit boards, lights, misc. electronics components, wire, solder, hardware &#8211; 2024</h2>
+<figure class="wp-block-audio"><audio controls src="https://storage.googleapis.com/ovos_archive/2025-09-21_OVOS_AIR.mp3"></audio></figure>
+
+
+
+<p class="wp-block-paragraph">Show type: LIVE</p>
+
+
+
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p class="wp-block-paragraph"><strong>Setlist</strong></p>
 
 
 
@@ -360,102 +737,73 @@
 
 
 
-<p>(The Reifier relies on our tendency to project utterly meaningful assumed truths onto (conveniently) structured, arbitrary information.)</p>
-
-
-
-<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<p>The Reifier is a scientific electrical device. It surmises and transcribes the inner emotions of whomever wears it into convenient and knowable words.</p>
-
-
-
-<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<p>As the wearer speaks or moves their jaw, a button is pressed. This controls The Reifier, displaying an output with each press. This output can be used to understand the wearer’s state of being. each light corresponds to a specific mood or desire. The Quick Lookup Guide (below) diagrams each light’s associated meaning.</p>
-
-
-
-<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<p>The Reifier uses no microcontrollers. Its circuitry is purpose built, making use of simple logic ICs and other discrete components. It uses a technology called <em>core rope memory</em>, which is a method of data storage that is programmed through the weaving of wires in and around magnetic cores.&nbsp;</p>
-
-
-
-<div style="height:38px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<p><strong>Demonstration video</strong></p>
-
-
-
-<figure class="wp-block-boldblocks-youtube-block"><div id="yb-video-lJ9GQcPnR7g" class="yb-player" data-video-id="lJ9GQcPnR7g" data-title="Play" style="background-image:url(https://img.youtube.com/vi/lJ9GQcPnR7g/maxresdefault.jpg)" data-params="{&quot;rel&quot;:0}"><button type="button" class="yb-btn-play"><span class="visually-hidden">Play</span></button></div></figure>
-
-
-
-<div style="height:38px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<p><strong>Quick Lookup Guide</strong> (click to expand)</p>
-
-
-
-<figure class="wp-block-image aligncenter size-large has-custom-border is-style-default" id="qlg"><a href="https://elihenley.com/wp-content/uploads/2024/06/QLGv4-yellowed.jpg"><img loading="lazy" decoding="async" width="791" height="1024" src="https://elihenley.com/wp-content/uploads/2024/06/QLGv4-yellowed-791x1024.jpg" alt="" class="wp-image-153" style="border-style:none;border-width:0px;border-radius:0px;object-fit:cover" srcset="https://elihenley.com/wp-content/uploads/2024/06/QLGv4-yellowed-791x1024.jpg 791w, https://elihenley.com/wp-content/uploads/2024/06/QLGv4-yellowed-232x300.jpg 232w, https://elihenley.com/wp-content/uploads/2024/06/QLGv4-yellowed-768x994.jpg 768w, https://elihenley.com/wp-content/uploads/2024/06/QLGv4-yellowed.jpg 850w" sizes="auto, (max-width: 791px) 100vw, 791px" /></a></figure>
+<table id="tablepress-33" class="tablepress tablepress-id-33">
+<thead>
+<tr class="row-1">
+	<th class="column-1">title</th><th class="column-2">artist</th><th class="column-3">album</th>
+</tr>
+</thead>
+<tbody class="row-striping row-hover">
+<tr class="row-2">
+	<td class="column-1">Theoria</td><td class="column-2">Super me</td><td class="column-3">Slouching Towards Bethlehem</td>
+</tr>
+<tr class="row-3">
+	<td class="column-1">Gajeiro</td><td class="column-2">Nenad Jelic &amp; Laza Ristovski</td><td class="column-3">Opera</td>
+</tr>
+<tr class="row-4">
+	<td class="column-1">Scold&#8217;s Bridle</td><td class="column-2">Death Praxis</td><td class="column-3">Mystery</td>
+</tr>
+<tr class="row-5">
+	<td class="column-1">Thank You Mr. Roach</td><td class="column-2">Pierre Courbois</td><td class="column-3">Independence</td>
+</tr>
+<tr class="row-6">
+	<td class="column-1">Mensch Medley / Homo Sapionce</td><td class="column-2">Fizze</td><td class="column-3">Kulu Hatha Mamnua</td>
+</tr>
+<tr class="row-7">
+	<td class="column-1">Palongawoya</td><td class="column-2">Fizze</td><td class="column-3">Kulu Hatha Mamnua</td>
+</tr>
+<tr class="row-8">
+	<td class="column-1">Adieu</td><td class="column-2">Fizze</td><td class="column-3">Kulu Hatha Mamnua</td>
+</tr>
+<tr class="row-9">
+	<td class="column-1">The Path</td><td class="column-2">Third Eye Music</td><td class="column-3">Inner Journey</td>
+</tr>
+</tbody>
+</table>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://elihenley.com/2024/06/27/the-reifier/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
-		
+		<enclosure url="https://storage.googleapis.com/ovos_archive/2025-09-21_OVOS_AIR.mp3" length="287753437" type="audio/mpeg" />
+
 			</item>
 		<item>
-		<title>Rotubula</title>
-		<link>https://elihenley.com/2024/06/27/rotubula/</link>
-					<comments>https://elihenley.com/2024/06/27/rotubula/#respond</comments>
+		<title>OVOS Aug 17 2025 &#8211; L</title>
+		<link>https://elihenley.com/2026/09/01/ovos-aug-17-2025-l/</link>
 		
 		<dc:creator><![CDATA[elihenley]]></dc:creator>
-		<pubDate>Thu, 27 Jun 2024 19:38:01 +0000</pubDate>
-				<category><![CDATA[2023]]></category>
-		<category><![CDATA[Videos]]></category>
-		<guid isPermaLink="false">https://elihenley.com/?p=137</guid>
+		<pubDate>Tue, 01 Sep 2026 16:28:40 +0000</pubDate>
+				<category><![CDATA[OVOS]]></category>
+		<guid isPermaLink="false">https://elihenley.com/?p=551</guid>
 
-					<description><![CDATA[Short film &#8211; 12:27 &#8211; 2023 Over the course of seven days, the “embodiment of roundness,” symbolized by the Drake Hotel, slowly collapses. The lauded inventor Ezekiel responds by offering his machine Rotubula, whose targeted gusts of wind are used to deflect the Drake’s falling debris. While seen as a savior, Ezekiel’s true motives are [&#8230;]]]></description>
+					<description><![CDATA[Aired August 17, 2025 Show type: LIVE Setlist]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="640" height="480" data-id="157" src="https://elihenley.com/wp-content/uploads/2024/06/Rotubula.00_00_21_22.Still003.jpg" alt="" class="wp-image-157" srcset="https://elihenley.com/wp-content/uploads/2024/06/Rotubula.00_00_21_22.Still003.jpg 640w, https://elihenley.com/wp-content/uploads/2024/06/Rotubula.00_00_21_22.Still003-300x225.jpg 300w" sizes="auto, (max-width: 640px) 100vw, 640px" /></figure>
+<p class="wp-block-paragraph">Aired August 17, 2025</p>
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="640" height="480" data-id="159" src="https://elihenley.com/wp-content/uploads/2024/06/Rotubula.00_02_06_24.Still002.jpg" alt="" class="wp-image-159" srcset="https://elihenley.com/wp-content/uploads/2024/06/Rotubula.00_02_06_24.Still002.jpg 640w, https://elihenley.com/wp-content/uploads/2024/06/Rotubula.00_02_06_24.Still002-300x225.jpg 300w" sizes="auto, (max-width: 640px) 100vw, 640px" /></figure>
+<figure class="wp-block-audio"><audio controls src="https://storage.googleapis.com/ovos_archive/2025-08-17_OVOS_AIR.mp3"></audio></figure>
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="640" height="480" data-id="160" src="https://elihenley.com/wp-content/uploads/2024/06/Rotubula.00_07_28_17.Still011.png" alt="" class="wp-image-160" srcset="https://elihenley.com/wp-content/uploads/2024/06/Rotubula.00_07_28_17.Still011.png 640w, https://elihenley.com/wp-content/uploads/2024/06/Rotubula.00_07_28_17.Still011-300x225.png 300w" sizes="auto, (max-width: 640px) 100vw, 640px" /></figure>
+<p class="wp-block-paragraph">Show type: LIVE</p>
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="640" height="480" data-id="161" src="https://elihenley.com/wp-content/uploads/2024/06/Rotubula.00_11_57_09.Still009-1.png" alt="" class="wp-image-161" srcset="https://elihenley.com/wp-content/uploads/2024/06/Rotubula.00_11_57_09.Still009-1.png 640w, https://elihenley.com/wp-content/uploads/2024/06/Rotubula.00_11_57_09.Still009-1-300x225.png 300w" sizes="auto, (max-width: 640px) 100vw, 640px" /></figure>
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="640" height="480" data-id="158" src="https://elihenley.com/wp-content/uploads/2024/06/Rotubula.00_21_33_17.Still007.jpg" alt="" class="wp-image-158" srcset="https://elihenley.com/wp-content/uploads/2024/06/Rotubula.00_21_33_17.Still007.jpg 640w, https://elihenley.com/wp-content/uploads/2024/06/Rotubula.00_21_33_17.Still007-300x225.jpg 300w" sizes="auto, (max-width: 640px) 100vw, 640px" /></figure>
-</figure>
-
-
-
-<figure style="--byeb--aspect-ratio:75.00%" class="wp-block-boldblocks-youtube-block"><div id="yb-video-8VyEXlHrEqc" class="yb-player" data-video-id="8VyEXlHrEqc" data-title="Play" style="background-image:url(https://img.youtube.com/vi/8VyEXlHrEqc/maxresdefault.jpg)" data-params="{&quot;rel&quot;:0}"><button type="button" class="yb-btn-play"><span class="visually-hidden">Play</span></button></div></figure>
-
-
-
-<h2 class="wp-block-heading">Short film &#8211; 12:27 &#8211; 2023</h2>
+<p class="wp-block-paragraph"><strong>Setlist</strong></p>
 
 
 
@@ -463,83 +811,82 @@
 
 
 
-<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
-<p><code>Over the course of seven days, the “embodiment of roundness,” symbolized by the Drake Hotel, slowly collapses. The lauded inventor Ezekiel responds by offering his machine Rotubula, whose targeted gusts of wind are used to deflect the Drake’s falling debris. While seen as a savior, Ezekiel’s true motives are tied up in the interests of powerful elites, who intend to dismantle roundness in all its forms. These figures exploit the collapse in order to promote the distant, angular homes of the future—working to move society both aesthetically and morally towards squareness. Aid, who is a blind devotee of the powers, tries to assist in realizing this shift, only to be left confused and abandoned.</code></p>
-</blockquote>
-
-
-
-<div style="height:22px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<p>The script for Rotubula was written primarily as stream of consciousness. All visual effects were accomplished using standard definition video equipment. The entire process emphasized play and serendipity.</p>
-
-
-
-<div style="height:22px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<p>Writing, direction, camera, effects, editing, music score, and the characters Aid and Ezekiel played by Eli Henley.&nbsp;</p>
-
-
-
-<p></p>
-
-
-
-<p><strong>Cast in order of appearance: </strong></p>
-
-
-
-<p>Home &#8211; Daniil Zakirzyanov</p>
-
-
-
-<p>Aid &#8211; Eli Henley</p>
-
-
-
-<p>News Anchor &#8211; Chris Wilhelm</p>
-
-
-
-<p>Ezekiel &#8211; Eli Henley; Image by Tahj Sampson</p>
-
-
-
-<p>Lead Hugh &#8211; Andrew Kane</p>
-
-
-
-<p></p>
+<table id="tablepress-32" class="tablepress tablepress-id-32">
+<thead>
+<tr class="row-1">
+	<th class="column-1">title</th><th class="column-2">artist</th><th class="column-3">album</th>
+</tr>
+</thead>
+<tbody class="row-striping row-hover">
+<tr class="row-2">
+	<td class="column-1">Tropical Dreams</td><td class="column-2">Jean-Louis Belmonte</td><td class="column-3">Histoire De Vie</td>
+</tr>
+<tr class="row-3">
+	<td class="column-1">Iceland Symphony</td><td class="column-2">Rod Summers</td><td class="column-3">Mythen</td>
+</tr>
+<tr class="row-4">
+	<td class="column-1">Taikuri</td><td class="column-2">Tekonivel</td><td class="column-3">Sirkus &#8211; Single</td>
+</tr>
+<tr class="row-5">
+	<td class="column-1">Fast Formation</td><td class="column-2">Mick Milk</td><td class="column-3">Condensed</td>
+</tr>
+<tr class="row-6">
+	<td class="column-1">Transistor Music for Ring Modulators &amp; Tremolo</td><td class="column-2">Experimental Audio Research</td><td class="column-3">Transistor Music &#8211; Single</td>
+</tr>
+<tr class="row-7">
+	<td class="column-1">Short Sharp Shower</td><td class="column-2">Rod Summers</td><td class="column-3">Mythen</td>
+</tr>
+<tr class="row-8">
+	<td class="column-1">Cabrakan</td><td class="column-2">Cabrakan</td><td class="column-3">Cabrakan</td>
+</tr>
+<tr class="row-9">
+	<td class="column-1">Untitled 8</td><td class="column-2">-1348-</td><td class="column-3">Six Girls In Search Of A Heaven</td>
+</tr>
+<tr class="row-10">
+	<td class="column-1">Ninna Neta</td><td class="column-2">F:A.R.</td><td class="column-3">Da Consumarsi Con Grazia</td>
+</tr>
+<tr class="row-11">
+	<td class="column-1">Planet of Exile</td><td class="column-2">Xisle</td><td class="column-3">Winter&#8217;s King</td>
+</tr>
+<tr class="row-12">
+	<td class="column-1">Martine On The Docks</td><td class="column-2">Ericka Irganon</td><td class="column-3">Ericka Irganon</td>
+</tr>
+</tbody>
+</table>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://elihenley.com/2024/06/27/rotubula/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
-		
+		<enclosure url="https://storage.googleapis.com/ovos_archive/2025-08-17_OVOS_AIR.mp3" length="287753437" type="audio/mpeg" />
+
 			</item>
 		<item>
-		<title>Watercourse to Lower Level</title>
-		<link>https://elihenley.com/2024/06/21/metal-fountain/</link>
-					<comments>https://elihenley.com/2024/06/21/metal-fountain/#respond</comments>
+		<title>OVOS Jul 20 2025 &#8211; L</title>
+		<link>https://elihenley.com/2026/09/01/ovos-jul-20-2025-l/</link>
 		
 		<dc:creator><![CDATA[elihenley]]></dc:creator>
-		<pubDate>Fri, 21 Jun 2024 04:51:14 +0000</pubDate>
-				<category><![CDATA[2023]]></category>
-		<category><![CDATA[Electrical devices]]></category>
-		<category><![CDATA[Sculptures]]></category>
-		<guid isPermaLink="false">https://elihenley.com/?p=127</guid>
+		<pubDate>Tue, 01 Sep 2026 16:25:57 +0000</pubDate>
+				<category><![CDATA[OVOS]]></category>
+		<guid isPermaLink="false">https://elihenley.com/?p=547</guid>
 
-					<description><![CDATA[Steel, silicone tubing, water pump, power supply &#8211; 2023 A Slow dripping fountain made of steel. Water is recirculated by a pump concealed in the base. Demonstration video]]></description>
+					<description><![CDATA[Aired July 20, 2025 Show type: LIVE Setlist]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="665" height="1024" src="https://elihenley.com/wp-content/uploads/2024/06/P1003574-2-Large-665x1024.jpeg" alt="" class="wp-image-256" srcset="https://elihenley.com/wp-content/uploads/2024/06/P1003574-2-Large-665x1024.jpeg 665w, https://elihenley.com/wp-content/uploads/2024/06/P1003574-2-Large-195x300.jpeg 195w, https://elihenley.com/wp-content/uploads/2024/06/P1003574-2-Large-768x1183.jpeg 768w, https://elihenley.com/wp-content/uploads/2024/06/P1003574-2-Large.jpeg 831w" sizes="auto, (max-width: 665px) 100vw, 665px" /></figure>
+<p class="wp-block-paragraph">Aired July 20, 2025</p>
 
 
 
-<h2 class="wp-block-heading">Steel, silicone tubing, water pump, power supply &#8211; 2023</h2>
+<figure class="wp-block-audio"><audio controls src="https://storage.googleapis.com/ovos_archive/2025-07-20_OVOS_AIR.mp3"></audio></figure>
+
+
+
+<p class="wp-block-paragraph">Show type: LIVE</p>
+
+
+
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p class="wp-block-paragraph"><strong>Setlist</strong></p>
 
 
 
@@ -547,51 +894,106 @@
 
 
 
-<p>A Slow dripping fountain made of steel. Water is recirculated by a pump concealed in the base.</p>
-
-
-
-<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<p><strong>Demonstration</strong> <strong>video</strong></p>
-
-
-
-<div style="height:0px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<figure style="--byeb--aspect-ratio:177.78%" class="wp-block-boldblocks-youtube-block"><div id="yb-video-9dU7i_M9Hn8" class="yb-player" data-video-id="9dU7i_M9Hn8" data-title="Play" style="background-image:url(https://elihenley.com/wp-content/uploads/2024/06/P1003576.00_00_19_20.Still001.jpg)" data-params="{&quot;rel&quot;:0}"><button type="button" class="yb-btn-play"><span class="visually-hidden">Play</span></button></div></figure>
+<table id="tablepress-31" class="tablepress tablepress-id-31">
+<thead>
+<tr class="row-1">
+	<th class="column-1">title</th><th class="column-2">artist</th><th class="column-3">album</th>
+</tr>
+</thead>
+<tbody class="row-striping row-hover">
+<tr class="row-2">
+	<td class="column-1">Il Domatore Di Leoni</td><td class="column-2">Gatto Marte</td><td class="column-3">Gioco Del Mago</td>
+</tr>
+<tr class="row-3">
+	<td class="column-1">Dotted World</td><td class="column-2">Mark Glynne &amp; Bart Zwier</td><td class="column-3">Home Comfort</td>
+</tr>
+<tr class="row-4">
+	<td class="column-1">Handycraft Center</td><td class="column-2">Pierre Courbois</td><td class="column-3">Myria&#8217; Poda</td>
+</tr>
+<tr class="row-5">
+	<td class="column-1">Live In Nantes</td><td class="column-2">Various</td><td class="column-3">Tak Tak Tak 3</td>
+</tr>
+<tr class="row-6">
+	<td class="column-1">Beat And Bow</td><td class="column-2">Pierre Courbois</td><td class="column-3">Myria&#8217; Poda</td>
+</tr>
+<tr class="row-7">
+	<td class="column-1">Transitus</td><td class="column-2">Peter Zegveld</td><td class="column-3">Dynamica Tumultus</td>
+</tr>
+<tr class="row-8">
+	<td class="column-1">An Untimely End</td><td class="column-2">Lemon Kittens</td><td class="column-3">The Big Dentist</td>
+</tr>
+<tr class="row-9">
+	<td class="column-1">Self-Supporting Joined Only By Whistling</td><td class="column-2">Software</td><td class="column-3">Men Without Clothes</td>
+</tr>
+<tr class="row-10">
+	<td class="column-1">Together</td><td class="column-2">Misha Panfilov Sound Combo</td><td class="column-3">Days As Echoes</td>
+</tr>
+<tr class="row-11">
+	<td class="column-1">Electric Voices</td><td class="column-2">Corneil Nies</td><td class="column-3">Nachtgalm</td>
+</tr>
+<tr class="row-12">
+	<td class="column-1">Blood Burns Into Water</td><td class="column-2">T.A.G.C.</td><td class="column-3">Digitaria</td>
+</tr>
+<tr class="row-13">
+	<td class="column-1">Second Night Out</td><td class="column-2">Jonn Serrie</td><td class="column-3">Starmoods</td>
+</tr>
+<tr class="row-14">
+	<td class="column-1">Charming Didi II</td><td class="column-2">Harry de Wit</td><td class="column-3">One Bar For Nothing</td>
+</tr>
+<tr class="row-15">
+	<td class="column-1">Under The Bo Tree (feat. Jan Akkerman)</td><td class="column-2">Tony Scott</td><td class="column-3">Meditation (feat. Jan Akkerman)</td>
+</tr>
+<tr class="row-16">
+	<td class="column-1">Around To Maryanne&#8217;s</td><td class="column-2">The Tinklers</td><td class="column-3">Saplings</td>
+</tr>
+<tr class="row-17">
+	<td class="column-1">The Jungle of Sizzling Stones</td><td class="column-2">Propeller Island</td><td class="column-3">Hermeneutic Music</td>
+</tr>
+<tr class="row-18">
+	<td class="column-1">Sea Play</td><td class="column-2">Pauline Anna Strom</td><td class="column-3">Aquatic Realms</td>
+</tr>
+<tr class="row-19">
+	<td class="column-1">Le Business Du Chameau</td><td class="column-2">La Tete A L&#8217;Envers Et Ses Malentendus</td><td class="column-3">Fromages Et Autres</td>
+</tr>
+<tr class="row-20">
+	<td class="column-1">Baby Fisher (I)</td><td class="column-2">La Tete A L&#8217;Envers Et Ses Malentendus</td><td class="column-3">Fromages Et Autres</td>
+</tr>
+</tbody>
+</table>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://elihenley.com/2024/06/21/metal-fountain/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
-		
+		<enclosure url="https://storage.googleapis.com/ovos_archive/2025-07-20_OVOS_AIR.mp3" length="287753437" type="audio/mpeg" />
+
 			</item>
 		<item>
-		<title>Things According to Last Fluesday</title>
-		<link>https://elihenley.com/2024/06/21/things-according-to-last-fluesday/</link>
-					<comments>https://elihenley.com/2024/06/21/things-according-to-last-fluesday/#respond</comments>
+		<title>OVOS Jun 15 2025 &#8211; L</title>
+		<link>https://elihenley.com/2026/09/01/ovos-jun-15-2025-l/</link>
 		
 		<dc:creator><![CDATA[elihenley]]></dc:creator>
-		<pubDate>Fri, 21 Jun 2024 04:42:40 +0000</pubDate>
-				<category><![CDATA[2023]]></category>
-		<category><![CDATA[Electrical devices]]></category>
-		<category><![CDATA[Sculptures]]></category>
-		<guid isPermaLink="false">https://elihenley.com/?p=119</guid>
+		<pubDate>Tue, 01 Sep 2026 16:23:44 +0000</pubDate>
+				<category><![CDATA[OVOS]]></category>
+		<guid isPermaLink="false">https://elihenley.com/?p=543</guid>
 
-					<description><![CDATA[wood, acrylic, paper, electronics &#8211; 9x9x18&#8243; &#8211; 2023 A sealed box which broadcasts the sound within itself. You can &#8220;tune into&#8221; last Fluesday on 94.7 FM. Inspired by Duchamp&#8217;s With Hidden Noise (1916) and 50cc of Paris Air (1919). All we’re allowed of Last Fluesday are the auditory and visual entrapments within this box, when [&#8230;]]]></description>
+					<description><![CDATA[Aired June 15, 2025 Show type: LIVE Setlist]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-2 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="1024" data-id="124" src="https://elihenley.com/wp-content/uploads/2024/06/fluesday2-Large-1024x1024.jpeg" alt="" class="wp-image-124" srcset="https://elihenley.com/wp-content/uploads/2024/06/fluesday2-Large-1024x1024.jpeg 1024w, https://elihenley.com/wp-content/uploads/2024/06/fluesday2-Large-300x300.jpeg 300w, https://elihenley.com/wp-content/uploads/2024/06/fluesday2-Large-150x150.jpeg 150w, https://elihenley.com/wp-content/uploads/2024/06/fluesday2-Large-768x768.jpeg 768w, https://elihenley.com/wp-content/uploads/2024/06/fluesday2-Large.jpeg 1280w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
-</figure>
+<p class="wp-block-paragraph">Aired June 15, 2025</p>
 
 
 
-<h2 class="wp-block-heading">wood, acrylic, paper, electronics &#8211; 9x9x18&#8243; &#8211; 2023</h2>
+<figure class="wp-block-audio"><audio controls src="https://storage.googleapis.com/ovos_archive/2025-06-15_OVOS_AIR.mp3"></audio></figure>
+
+
+
+<p class="wp-block-paragraph">Show type: LIVE</p>
+
+
+
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p class="wp-block-paragraph"><strong>Setlist</strong></p>
 
 
 
@@ -599,27 +1001,67 @@
 
 
 
-<p>A sealed box which broadcasts the sound within itself. You can &#8220;tune into&#8221; last Fluesday on 94.7 FM.</p>
-
-
-
-<p>Inspired by Duchamp&#8217;s With Hidden Noise (1916) and 50cc of Paris Air (1919).</p>
-
-
-
-<p></p>
-
-
-
-<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
-<p>All we’re allowed of Last Fluesday are the auditory and visual entrapments within this box, when it was last allowed to absorb the environment as it was; for it was then sealed with helical fasteners turned by a long and skinny rotator quite visibly angry.</p>
-</blockquote>
+<table id="tablepress-30" class="tablepress tablepress-id-30">
+<thead>
+<tr class="row-1">
+	<th class="column-1">title</th><th class="column-2">artist</th><th class="column-3">album</th>
+</tr>
+</thead>
+<tbody class="row-striping row-hover">
+<tr class="row-2">
+	<td class="column-1">Attack &#8211; Impulse</td><td class="column-2">16-17</td><td class="column-3">Gyatso</td>
+</tr>
+<tr class="row-3">
+	<td class="column-1">A New Hieroglyphic</td><td class="column-2">Tim Clark</td><td class="column-3">Myth</td>
+</tr>
+<tr class="row-4">
+	<td class="column-1">Scorpio (Water)</td><td class="column-2">U-R-I</td><td class="column-3">The BONE TREE Soundtracks Volume 1</td>
+</tr>
+<tr class="row-5">
+	<td class="column-1">Untitled 3</td><td class="column-2">Asmus Tietchens &amp; Terry Burrows</td><td class="column-3">Watching The Burning Bride</td>
+</tr>
+<tr class="row-6">
+	<td class="column-1">I Tune To Plop</td><td class="column-2">Ak Ak<br />
+</td><td class="column-3">Laura Syndrom</td>
+</tr>
+<tr class="row-7">
+	<td class="column-1">Into Gamelan</td><td class="column-2">Ak Ak</td><td class="column-3">Laura Syndrom</td>
+</tr>
+<tr class="row-8">
+	<td class="column-1">Part II</td><td class="column-2">Richard Youngs</td><td class="column-3">Advent</td>
+</tr>
+<tr class="row-9">
+	<td class="column-1">Tri Siqnan</td><td class="column-2">:zoviet*france:* and Fossil Aerosol Mining Project</td><td class="column-3">Patina Pooling</td>
+</tr>
+<tr class="row-10">
+	<td class="column-1">Enrobbed en illio</td><td class="column-2">:zoviet*france:* and Fossil Aerosol Mining Project</td><td class="column-3">Patina Pooling</td>
+</tr>
+<tr class="row-11">
+	<td class="column-1">Sync 01</td><td class="column-2">NSI</td><td class="column-3">Sync<br />
+(24 Pieces For Drummachine And Sequencer)</td>
+</tr>
+<tr class="row-12">
+	<td class="column-1">Untitled 9</td><td class="column-2">Charles Cohen &amp; Ed Wilcox</td><td class="column-3">Those Are Pearls That Were His Eyes</td>
+</tr>
+<tr class="row-13">
+	<td class="column-1">Questions of Worry</td><td class="column-2">Ziad Moukarzel</td><td class="column-3">Anthology of Electroacoustic Lebanese Music</td>
+</tr>
+<tr class="row-14">
+	<td class="column-1">Soul Vibration Side 2 (Part 1)</td><td class="column-2">Deep Magic</td><td class="column-3">Soul Vibration</td>
+</tr>
+<tr class="row-15">
+	<td class="column-1">Electron Gate</td><td class="column-2">:zoviet*france:</td><td class="column-3">The Decriminalisation Of Country Music</td>
+</tr>
+<tr class="row-16">
+	<td class="column-1">Soul Vibration Side 2 (Part 2)</td><td class="column-2">Deep Magic</td><td class="column-3">Soul Vibration</td>
+</tr>
+</tbody>
+</table>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://elihenley.com/2024/06/21/things-according-to-last-fluesday/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
-		
+		<enclosure url="https://storage.googleapis.com/ovos_archive/2025-06-15_OVOS_AIR.mp3" length="287761789" type="audio/mpeg" />
+
 			</item>
 	</channel>
 </rss>
